@@ -9,13 +9,13 @@ EG9	6	leukemic	IGL11
 EG9	7	T-Cells, NK-Cells, mature-B	CD8 pos, GZ pos, MS4A1 pos
 EG14	0	NK-cell	GZ pos
 EG14	1	T-cell	CD8 pos
-EG14	2	NA	NA
-EG14	3	leukemic	IGLL1 pos, VPREB1 pos
+EG14	2	mature-B	MS4A1 pos
+EG14	3	leukemic	IGLL1 pos, VPREB1 pos, DNTT pos
 EG14	4	NA	NA
 EG14	5	T-cell	CD8 pos
-EG14	6	NA	NA
+EG14	6	blood-cell	HBB pos
 EG14	7	NA	NA
-EG14	8	NA	NA
+EG14	8	monocyte	LYZ pos
 EG14	9	NA	NA
 EG14	10	NA	NA
-EG14	11	NA	NA
+EG14	11	monocyte	LYZ pos
