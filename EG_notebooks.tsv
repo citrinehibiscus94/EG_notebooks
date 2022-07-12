@@ -43,7 +43,7 @@ EG11	7	NK-cell	GZ pos
 EG11	8	leukemic	DNTT pos
 EG16	0	NK-cell	GZ pos
 EG16	1	mature-B	MS4A1 pos
-EG16	T-cell	CD8 pos, CD3 pos
+EG16	2	T-cell	CD8 pos, CD3 pos
 EG16	3	NK-cell	GZ pos
 EG16	4	leukemic	IGLL1 pos, VPREB1 pos
 EG16	5	T-cell	CD8 pos, CD3 pos
@@ -51,7 +51,7 @@ EG16	6	NK-cell	GZ pos
 EG16	7	T-cell	CD8 pos, CD3 pos
 EG16	8	mature-B	MS4A1 pos
 EG16	9	mature-B	MS4A1 pos
-EG20	0	NA	A
+EG20	0	NA	NA
 EG20	1	NA	NA
 EG20	2	NA	NA
 EG20	3	NA	NA
