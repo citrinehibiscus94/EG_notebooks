@@ -7,12 +7,12 @@ EG9	4	leukemic	IGLL1
 EG9	5	dividing leukemic	DNTT pos, MKI67 pos
 EG9	6	leukemic	IGL11
 EG9	7	T-Cells, NK-Cells, mature-B	CD8 pos, GZ pos, MS4A1 pos
-EG14	0	NA	NA
-EG14	1	NA	NA
+EG14	0	NK-cell GZ pos
+EG14	1	T-cell	CD8 pos
 EG14	2	NA	NA
 EG14	3	leukemic	IGLL1 pos, VPREB1 pos
 EG14	4	NA	NA
-EG14	5	NA	NA
+EG14	5	T-cell	CD8 pos
 EG14	6	NA	NA
 EG14	7	NA	NA
 EG14	8	NA	NA
