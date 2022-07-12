@@ -6,4 +6,4 @@ EG9	3	dividing leukemic	IGLL1 pos, MKI67 pos
 EG9	4	leukemic	IGLL1
 EG9	5	dividing leukemic	DNTT pos, MKI67 pos
 EG9	6	leukemic	IGL11
-EG9	7	T-Cells, NK-Cells	CD8 pos, GZ pos
+EG9	7	T-Cells, NK-Cells, mature-B	CD8 pos, GZ pos
