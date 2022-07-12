@@ -19,7 +19,7 @@ EG14	8	mixed-phenotype	LYZ pos, MME pos, MS4A1 pos, GZB pos
 EG14	9	T-cell	CD3 pos, 
 EG14	10	NK-cell	GZ pos
 EG14	11	monocyte	LYZ pos
-EG19  0 NA  NA
+EG19	0	NA	NA
 EG19  1 NA  NA
 EG19  2 NA  NA
 EG19  3 NA  NA
