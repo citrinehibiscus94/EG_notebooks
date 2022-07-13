@@ -69,25 +69,25 @@ EG15	2	leukemic	DNTT pos
 EG15	3	leukemic	DNTT pos
 EG15	4	NK-cell	GZ pos
 EG15	5	monocyte	LYZ pos
-EG15	6	dividing	MKI67 pos, AURKA pos
+EG15	6	dividing leukemic	MKI67 pos, AURKA pos, IGLL pos, VPREB1 pos, DNTT pos
 EG15	7	leukemic	DNTT pos
 EG15	8	T-cell	CD8 pos, CD3 pos
 EG15	9	mature-B	MS4A1 pos
 EG15	10	leukemic	IGLL1 pos, VPREB1 pos, DNTT pos
-EG12	0	NA	NA
-EG12	1	NA	NA
-EG12	2	NA	NA
-EG12	3	NA	NA
-EG12	4	NA	NA
-EG12	5	NA	NA
-EG12	6	NA	NA
-EG12	7	NA	NA
-EG12	8	NA	NA
-EG12	9	NA	NA
-EG12	10	NA	NA
-EG12	11	NA	NA
-EG12	12	NA	NA
-EG12	13	NA	NA
-EG12	14	NA	NA
-EG12	15	NA	NA
-EG12	16	NA	NA
+EG12	0	monocyte	LYZ pos, CD14 pos
+EG12	1	monocyte	LYZ pos, CD14 pos
+EG12	2	monocyte	LYZ pos, CD14 pos
+EG12	3	NK-cell	GZ pos
+EG12	4	T-cell	CD3 pos
+EG12	5	T-cell	CD8 pos, CD3 pos
+EG12	6	mature-B	MS4A1 pos
+EG12	7	NK-cell	GZ pos
+EG12	8	monocyte	MPO pos
+EG12	9	T-cell	CD8 pos, CD3 pos
+EG12	10	HSC	CD34 pos
+EG12	11	monocyte	LYZ pos, CD14 pos
+EG12	12	mature-B	MS4A1 pos
+EG12	13	blood-cell	HBA pos, HBB pos
+EG12	14	monocyte	LYZ pos, CD14 pos
+EG12	15	monocyte	LYZ pos, CD14 pos, MPO pos
+EG12	16	mature-B	MS4A1 pos
