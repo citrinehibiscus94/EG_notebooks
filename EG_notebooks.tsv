@@ -58,8 +58,19 @@ EG20	3	mature-B	MS4A1 pos
 EG20	4	leukemic	IGLL1 pos, VPREB1 pos
 EG20	5	monocyte	LYZ pos
 EG20	6	T-cell	CD3 pos
-EG18	0	NA	NA
-EG18	1	NA	NA
-EG18	2	NA	NA
-EG18	3	NA	NA
-EG18	4	NA	NA
+EG18	0	T-cell	CD8 pos, CD3 pos
+EG18	1	mature-B	MS4A1 pos
+EG18	2	leukemic	DNTT pos
+EG18	3	NK-cell	GZ pos
+EG18	4	monocyte	LYZ pos
+EG15	0	NA	NA
+EG15	1	NA	NA
+EG15	2	NA	NA
+EG15	3	NA	NA
+EG15	4	NA	NA
+EG15	5	NA	NA
+EG15	6	NA	NA
+EG15	7	NA	NA
+EG15	8	NA	NA
+EG15	9	NA	NA
+EG15	10	NA	NA
