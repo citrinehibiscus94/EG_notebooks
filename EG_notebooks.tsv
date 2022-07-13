@@ -91,3 +91,20 @@ EG12	13	blood-cell	HBA pos, HBB pos
 EG12	14	monocyte	LYZ pos, CD14 pos
 EG12	15	monocyte	LYZ pos, CD14 pos, MPO pos
 EG12	16	mature-B	MS4A1 pos
+EG17	0	leukemic HSC	DNTT pos, CD34
+EG17	1	leukemic HSC	DNTT pos, CD34 pos
+EG17	2	T-cell	CD3 pos
+EG17	3	leukemic	VPREB1 pos
+EG17	4	leukemic HSC	DNTT pos, CD34 pos
+EG17	5	monocyte	LYZ pos, MPO pos
+EG17	6	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos
+EG17	7	NK-cell	GZ pos
+EG17	8	mature-B	MS4A1 pos
+EG17	9	T-cell	CD8 pos, CD3 pos
+EG17	10	T-cell	CD8, pos, CD3 pos
+EG17	11	leukemic HSC	DNTT pos, CD34 pos
+EG17	12	NK-cell	GZ pos
+EG17	13	monocyte	LYZ pos, CD14 pos
+EG17	14	mature-B	MS4A1 pos
+EG17	15	monocyte	LYZ pos, CD14 pos
+EG17	16	leukemic HSC	DNTT pos, CD34 pos
