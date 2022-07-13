@@ -31,7 +31,7 @@ EG19	8	NK-cell	GZ pos
 EG19	9	monocyte	LYZ pos
 EG19	10	T-cell	CD8 pos
 EG19	11	NA	NA
-EG19	12	NA	GATA2 pos
+EG19	12	HSC	CD34 pos
 EG11	0	leukemic	DNTT pos
 EG11	1	leukemic	IGLL1 pos, DNTT pos
 EG11	2	leukemic	IGLL1 pos, DNTT pos
