@@ -23,11 +23,11 @@ EG3	0	T-cell	CD3 pos
 EG3	1	T-cell	CD3 pos
 EG3	2	NK-cell, T-cell	CD3 pos, CD8 pos, GZ pos
 EG3	3	myeloid	CD33 pos, MPO pos, MKI67
-EG3	4	myeloid prog	KIT pos, DNTT pos, CD34 poss
+EG3	4	myeloid prog	KIT pos, DNTT pos, CD34 pos
 EG4	0	leukemic	CD3 pos, IGLL1 pos
 EG4	1	leukemic	CD3 pos, IGLL1 pos, MPO pos, CD34
 EG4	2	leukemic	CD3 pos, IGLL1 pos, CD34
-EG4	3	leukemic	CD3	pos, IGLL1 pos, MPO pos, CD34 pos
+EG4	3	leukemic	CD3 pos, IGLL1 pos, MPO pos, CD34 pos
 EG4	4	leukemic	CD3 pos, IGLL1 pos
 EG4	5	blood-cell	HB pos
 EG4	6	dividing	CD3 pos, IGLL1 pos, MKI67, CD34
