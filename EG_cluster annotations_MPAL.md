@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/102288634/183407669-0321179f-41d7-44b1-853b-d3dded5f7b5a.png)
 #EG1
 ![image](https://user-images.githubusercontent.com/102288634/183368098-641dc4c3-e558-4f47-99a7-b5f272872646.png)
 
