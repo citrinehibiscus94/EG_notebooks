@@ -20,7 +20,7 @@ EG2	12	monocyte	MPO pos
 EG2	13	blood-cell	HB pos
 EG2	14	blood-cell	HB pos
 EG3	0	T-cell	CD3 pos
-EG3 1 T-cell CD3 pos,
+EG3	1	T-cell	CD3 pos
 EG3 2 NK-cell, T-cell CD3 pos, CD8 pos, GZ pos
 EG3 3 myeloid CD33 pos, MPO pos, MKI67
 EG3 4 myeloid prog KIT pos, DNTT pos, CD34 pos
