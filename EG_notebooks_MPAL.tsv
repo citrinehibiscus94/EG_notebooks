@@ -47,8 +47,21 @@ EG5	6	NA	LYZ pos, MS4A1 pos, CD34 pos
 EG5	7	T-cell	CD3 pos, CD8 pos, GZ pos
 EG5	8	leukemic	DNTT pos, VPREB1 pos, CD34 pos
 EG5	9	NA	NA
-EG5	10	NA	MPO pos
+EG5	10	myeloid	MPO pos
 EG5	11	monocyte	LYZ pos, MPO pos
 EG5	12	leukemic	DNTT pos, IGLL1 pos, CD34 pos
 EG5	13	T-cell	CD3 pos, CD8 pos, GZ pos
 EG5	14	blood-cell	HB pos
+EG6	0	NA	NA
+EG6	1	NA	NA
+EG6	2	NA	NA
+EG6	3	NA	NA
+EG6	4	NA	NA
+EG6	5	NA	NA
+EG6	6	NA	NA
+EG6	7	NA	NA
+EG6	8	NA	NA
+EG6	9	NA	NA
+EG6	15	NA	NA
+EG6	16	NA	NA
+EG6	17	NA	NA
