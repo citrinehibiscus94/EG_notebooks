@@ -1,1 +1,21 @@
 Sample	Cluster	Ident	Comments
+EG1	0	NA	NA
+EG1	1	NK-cell	GZ pos
+EG1	2	NA	NA
+EG1	3	myeloid prog	KIT pos
+EG1	4	myeloid	CD33 pos, IGLL1 pos, MPO pos
+EG2	0	leukemic HSC	CD34 pos, IGLL1 pos, CD3 pos
+EG2	1	leukemic T-cell	IGLL pos, CD3 pos
+EG2	2	leukemic	CD34 pos, IGLL1 pos, CD3 pos
+EG2	3	dividing leukemic HSC	CD34 pos, IGLL1, MKI67 pos, CD3 pos
+EG2	4	leukemic HSC	CD34 pos, IGLL1 pos, CD3 pos
+EG2	5	dendritic?	FCER1A pos, IGLL1 pos
+EG2	6	monocyte	LYZ pos
+EG2	7	leukemic T-cell	IGLL pos, CD3 pos
+EG2	8	T-cell	CD3 pos
+EG2	9	T-cell, NK-cell	GZ pos, CD8 pos
+EG2	10	leukemic T-cell	IGLL pos, CD3 pos
+EG2	11	leukemic T-cell	IGLL pos, CD3 pos
+EG2	12	monocyte	MPO pos
+EG2	13	blood-cell	HB pos
+EG2	14	blood-cell	HB pos
