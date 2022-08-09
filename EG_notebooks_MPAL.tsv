@@ -70,15 +70,15 @@ EG6	14	NK-cell	CD3 pos, CD8 pos, GZ pos
 EG6	15	T-cell	CD3 pos
 EG6	16	leukemic	DNTT pos, IGLL1 pos
 EG6	17	blood-cell	HB pos
-EG7	0	NA	NA
-EG7	1	NA	NA
-EG7	2	NA	NA
-EG7	3	NA	NA
-EG7	4	NA	NA
-EG7	5	NA	NA
-EG7	6	NA	NA
-EG7	7	NA	NA
-EG7	8	NA	NA
-EG7	9	NA	NA
-EG7	10	NA	NA
-EG7	11	NA	NA
+EG7	0	leukemic HSC	DNTT pos, CD34 pos
+EG7	1	monocyte	LYZ pos, MPO pos
+EG7	2	monocyte	LYZ pos, CD14 pos
+EG7	3	leukemic HSC	DNTT pos, IGLL1 pos, MPO pos, CD34 pos
+EG7	4	dividing leukemic HSC	DNTT pos, IGLL1 pos, MKI67 pos, CD34 pos
+EG7	5	leukemic HSC	DNTT pos, IGLL1 pos, MPO pos, CD34 pos
+EG7	6	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG7	7	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos
+EG7	8	myeloid	MPO pos
+EG7	9	leukemic	DNTT pos
+EG7	10	leukemic HSC	DNTT pos, IGLL1 pos, CD34
+EG7	11	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos
