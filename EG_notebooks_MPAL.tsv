@@ -82,3 +82,20 @@ EG7	8	myeloid	MPO pos
 EG7	9	leukemic	DNTT pos
 EG7	10	leukemic HSC	DNTT pos, IGLL1 pos, CD34
 EG7	11	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos
+EG8	0	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos
+EG8	1	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos
+EG8	2	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos
+EG8	3	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos
+EG8	4	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos
+EG8	5	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos
+EG8	6	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos
+EG8	7	monocyte	LYZ pos, MPO pos
+EG8	8	monocyte	LYZ pos, CD14 pos
+EG8	9	dendritic?	FCER1A pos
+EG8	10	leukemic HSC	MKI67 pos, DNTT pos, IGLL1 pos, CD34 pos
+EG8	11	dividing myeloid	MPO pos, MKI67 pos
+EG8	12	blood-cell	HB pos, MKI67 pos
+EG8	13	blood-cell	HB pos
+EG8	14	T-cell	CD3 pos, DNTT pos
+EG8	15	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG8	16	leukemic	DNTT pos, IGLL1 pos,
