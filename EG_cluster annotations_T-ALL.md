@@ -16,3 +16,9 @@
 
 #EG27
 ![image](https://user-images.githubusercontent.com/102288634/184093381-1c5368dc-91c2-49a9-b720-63a15f7aa1f0.png)
+![image](https://user-images.githubusercontent.com/102288634/184100227-87b73499-2514-45ed-ac84-aa7b3851b831.png)
+![image](https://user-images.githubusercontent.com/102288634/184100255-c44af2ba-cee4-4ca0-87a6-0ecabd10fcf6.png)
+![image](https://user-images.githubusercontent.com/102288634/184100275-e5ef23ea-8d1a-4f0d-8684-4922b11b4083.png)
+![image](https://user-images.githubusercontent.com/102288634/184100358-20702eb5-26cf-4e22-9c25-9b8201fe8580.png)
+![image](https://user-images.githubusercontent.com/102288634/184100386-855225f0-e36c-4710-af43-fb53c8b45462.png)
+![image](https://user-images.githubusercontent.com/102288634/184100414-87e87537-55ad-4d89-8eee-98267099f95f.png)
