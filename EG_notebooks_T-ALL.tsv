@@ -25,7 +25,7 @@ EG27	6	T-cell	CD3 pos, CD8 pos,
 EG27	7	leukemic HSC	CD3 pos, KIT pos, DNTT pos, IGLL1 pos, CD34 pos
 EG27	8	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG27	9	leukemic HSC	CD3 pos, IGLL1 pos, CD34 pos
-EG27	10	leukemic HSC	CD3 pos, KIT pos, IGLL1 pos, CD34 pos
+EG27	10	dividing leukemic HSC	CD3 pos, KIT pos, IGLL1 pos, CD34 pos, MKI67 pos
 EG28	0	NA	NA
 EG28	1	NA	NA
 EG28	2	NA	NA
