@@ -15,4 +15,17 @@ EG26	12	mature-B	MS4A1 pos,
 EG26	13	myeloid	MPO pos
 EG26	14	HSC	CD34 pos
 EG26	15	monocyte	LYZ pos, CD14 pos
-EG27	0	NA	NA
+EG27	0	leukemic HSC	CD3 pos, IGLL1 pos, CD34 pos
+EG27	1	leukemic HSC	CD3 pos, KIT pos, IGLL1 pos, CD34 pos
+EG27	2	leukemic HSC	CD3 pos, KIT pos, IGLL1 pos, CD34 pos
+EG27	3	leukemic HSC	CD3 pos, IGLL1 pos, CD34 pos
+EG27	4	leukemic HSC	CD3 pos, IGLL1 pos, CD34 pos
+EG27	5	leukemic HSC	CD3 pos, KIT pos, IGLL1 pos, CD34 pos
+EG27	6	T-cell	CD3 pos, CD8 pos,
+EG27	7	leukemic HSC	CD3 pos, KIT pos, DNTT pos, IGLL1 pos, CD34 pos
+EG27	8	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG27	9	leukemic HSC	CD3 pos, IGLL1 pos, CD34 pos
+EG27	10	leukemic HSC	CD3 pos, KIT pos, IGLL1 pos, CD34 pos
+EG28	0	NA	NA
+EG28	1	NA	NA
+EG28	2	NA	NA
