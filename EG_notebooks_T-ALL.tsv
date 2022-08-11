@@ -1,17 +1,18 @@
 Sample	Cluster	Ident	Comments
-EG26	0	NA	NA
-EG26	1	NA	NA
-EG26	2	NA	NA
-EG26	3	NA	NA
-EG26	4	NA	NA
-EG26	5	NA	NA
-EG26	6	NA	NA
-EG26	7	NA	NA
-EG26	8	NA	NA
-EG26	9	NA	NA
-EG26	10	NA	NA
-EG26	11	NA	NA
-EG26	12	NA	NA
-EG26	13	NA	NA
-EG26	14	NA	NA
-EG26	15	NA	NA
+EG26	0	leukemic HSC	CD3 pos, KIT pos, DNTT pos, IGLL1 pos, CD34 pos
+EG26	1	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG26	2	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG26	3	leukemic HSC	CD3 pos, KIT pos, DNTT pos, LYZ pos, CD34 pos
+EG26	4	leukemic HSC	CD3 pos, KIT pos, DNTT pos, IGLL1 pos, CD34 pos
+EG26	5	leukemic HSC	CD3 pos, KIT pos, DNTT pos, IGLL1 pos, CD34 pos
+EG26	6	leukemic HSC	KIT pos, CD34 pos
+EG26	7	dividing leukemic HSC	CD3 pos, KIT pos, DNTT pos, IGLL1 pos, MKI67 pos, CD34 pos
+EG26	8	dividing leukemic HSC	CD3 pos, KIT pos, DNTT pos, IGLL1 pos, MKI67 pos, CD34 pos
+EG26	9	T-cell	CD3 pos,
+EG26	10	monocyte	LYZ pos, CD14 pos
+EG26	11	NK-cell	GZ pos
+EG26	12	mature-B	MS4A1 pos,
+EG26	13	myeloid	MPO pos
+EG26	14	HSC	CD34 pos
+EG26	15	monocyte	LYZ pos, CD14 pos
+EG27	0	NA	NA
