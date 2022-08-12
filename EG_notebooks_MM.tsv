@@ -1,4 +1,22 @@
 Sample	Cluster	Ident	Comments
-EG30	0	NA	NA
-EG30	1	NA	NA
-EG30	2	NA	NA
+EG30	0	NA	LYZ pos, CD14 pos
+EG30	1	NA	KIT pos,
+EG30	2	NA	HB pos, MKI67 pos
+EG30	3	NA	KIT pos
+EG30	4	NA	HB pos, MPO pos, MKI67 pos
+EG30	5	NA	LYZ pos, MPO pos, MKI67 pos
+EG30	6	NA	IGLL1 pos, CD34 pos
+EG30	7	NA	MS4A1 pos,
+EG30	8	NA	CD3 pos, CD8 pos
+EG30	9	NA	HB pos,
+EG30	10	NA	NA
+EG30	11	NA	GZ pos
+EG30	12	NA	DNTT pos, IGLL1 pos, MKI67 pos
+EG30	13	NA	LYZ pos, CD14 pos
+EG30	14	NA	GZMB pos, CD4 pos
+EG30	15	NA	HB pos, MKI67 pos
+EG30	16	NA	HB pos,
+EG30	17	NA	LYZ pos
+EG31	0	NA	NA
+EG31	1	NA	NA
+EG31	2	NA	NA
