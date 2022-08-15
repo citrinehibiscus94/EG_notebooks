@@ -17,6 +17,12 @@ EG30	14	T-cell, NK-cell	GZMB pos, CD4 pos
 EG30	15	blood-cell prog?	HB pos, MKI67 pos
 EG30	16	blood-cell	HB pos
 EG30	17	monocye	LYZ pos
-EG31	0	NA	NA
-EG31	1	NA	NA
-EG31	2	NA	NA
+EG31	0	NA	CD3 pos, CD8 pos,
+EG31	1	NA	KIT pos?
+EG31	3	NA	LYZ pos, CD14 pos
+EG31	4	NA	CD3 pos, GZ pos,
+EG31	5	NA	HB pos, MPO pos, CD34 pos
+EG31	6	NA	MS4A1,
+EG31	7	NA	MPO pos
+EG31	8	NA	HB pos
+EG31	9	NA	HB pos, MKI67 pos
