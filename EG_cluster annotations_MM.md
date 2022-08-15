@@ -21,3 +21,7 @@
 
 #EG31
 ![image](https://user-images.githubusercontent.com/102288634/184615986-01f82ff9-54cb-4966-a28d-7241d6bbc8fd.png)
+![image](https://user-images.githubusercontent.com/102288634/184622231-41f3e89c-228a-4904-856e-98184eafce93.png)
+![image](https://user-images.githubusercontent.com/102288634/184622255-95976f7f-556c-4547-a765-1fd70c0b961f.png)
+![image](https://user-images.githubusercontent.com/102288634/184622275-f1cd5260-ea3c-421d-b49f-04c299c2646f.png)
+![image](https://user-images.githubusercontent.com/102288634/184622300-96ddb67e-af1b-4db4-baa2-462608354894.png)
