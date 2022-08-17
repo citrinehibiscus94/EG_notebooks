@@ -1,4 +1,13 @@
 Sample	Cluster	Ident	Comments
-EG34	0	NA	NA
-EG34	1	NA	NA
-EG34	2	NA	NA
+EG34	0	T-cell	CD3 pos, CD4 pos
+EG34	1	T-cell	CD3 pos, CD4 pos
+EG34	2	T-cell	CD3 pos, CD4 pos
+EG34	3	T-cell	CD3 pos, CD4 pos
+EG34	4	T-cell	CD3 pos, CD4 pos
+EG34	5	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG34	6	T-cell	CD3 pos, CD8 pos
+EG34	7	myeloid	MS4A1 pos
+EG34	8	blood-cell prog	HB pos, MKI67 pos
+EG34	9	plasma-cell	plasma-cell pos
+EG34	10	monocyte	LYZ pos, CD14 pos
+EG35	0	NA	NA
