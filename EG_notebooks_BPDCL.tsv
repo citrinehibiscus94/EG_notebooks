@@ -1,4 +1,13 @@
 Sample	Cluster	Ident	Comments
-EG42	0	NA	NA
-EG42	1	NA	NA
-EG42	2	NA	NA
+EG42	0	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	1	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	2	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	3	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	4	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	5	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	6	myeloid prog	KIT pos, VPREB1 pos
+EG42	7	dividing leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos,
+EG42	8	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	9	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos
+EG42	10	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG43	0	NA	NA
