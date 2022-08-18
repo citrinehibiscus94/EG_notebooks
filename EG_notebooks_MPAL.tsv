@@ -9,7 +9,7 @@ EG2	1	leukemic T-cell	IGLL pos, CD3 pos
 EG2	2	leukemic	CD34 pos, IGLL1 pos, CD3 pos
 EG2	3	dividing leukemic HSC	CD34 pos, IGLL1, MKI67 pos, CD3 pos
 EG2	4	leukemic HSC	CD34 pos, IGLL1 pos, CD3 pos
-EG2	5	dendritic?	FCER1A pos, IGLL1 pos
+EG2	5	leukemic	FCER1A pos, IGLL1 pos
 EG2	6	monocyte	LYZ pos
 EG2	7	leukemic T-cell	IGLL pos, CD3 pos
 EG2	8	T-cell	CD3 pos
