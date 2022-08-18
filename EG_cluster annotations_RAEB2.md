@@ -1,2 +1,25 @@
 # EG38
 ![image](https://user-images.githubusercontent.com/102288634/185349182-eb7ba0d4-0945-4995-b3bb-127507b56fa6.png)
+![image](https://user-images.githubusercontent.com/102288634/185354539-a269a3b8-7f7c-4891-877c-580e3592f1b6.png)
+![image](https://user-images.githubusercontent.com/102288634/185354559-6fa019aa-ca1b-4c6d-b172-5d5f38faeb4b.png)
+![image](https://user-images.githubusercontent.com/102288634/185354601-836c4aaf-21f9-498c-b226-553de1b0041d.png)
+![image](https://user-images.githubusercontent.com/102288634/185354632-64f531d2-d208-437d-8f93-b30970e9dc98.png)
+![image](https://user-images.githubusercontent.com/102288634/185354689-77602fa6-0c17-4207-a567-a626fe078f1f.png)
+![image](https://user-images.githubusercontent.com/102288634/185354728-175fc2e5-e02e-4cf9-b6f0-26991c631f3d.png)
+![image](https://user-images.githubusercontent.com/102288634/185354768-075587a1-92c7-412b-ac28-56984d708e33.png)
+![image](https://user-images.githubusercontent.com/102288634/185354819-cddf0774-c702-4534-a7ab-6a439f06c830.png)
+![image](https://user-images.githubusercontent.com/102288634/185354865-b3f41c9f-9b3c-44fe-965c-39c0f14f5277.png)
+![image](https://user-images.githubusercontent.com/102288634/185354913-d3f8c66a-5b4e-4dd4-bc56-1f5d594f5fe9.png)
+![image](https://user-images.githubusercontent.com/102288634/185354955-4752976b-d21e-4720-8120-55660fd84e4f.png)
+![image](https://user-images.githubusercontent.com/102288634/185355047-aa6dab57-1c4a-41f6-bb7e-c2ee15f0b630.png)
+![image](https://user-images.githubusercontent.com/102288634/185355088-2da75d00-4b65-4c1c-828c-9586f83e5301.png)
+![image](https://user-images.githubusercontent.com/102288634/185355144-3a8c3ca0-0f41-45eb-be31-f32f91cbfc5c.png)
+![image](https://user-images.githubusercontent.com/102288634/185355204-6685ddc4-d67c-435a-9398-b99a0ab636d3.png)
+![image](https://user-images.githubusercontent.com/102288634/185355250-0f1d3686-b38e-4fb0-bb41-b5e9d9b8aba8.png)
+![image](https://user-images.githubusercontent.com/102288634/185355297-e026dee4-aa46-4362-ae24-d349f4d2f2a7.png)
+![image](https://user-images.githubusercontent.com/102288634/185355343-4f4652f6-44df-4773-8050-3627614c605a.png)
+![image](https://user-images.githubusercontent.com/102288634/185355459-31949edc-f1e5-467e-97d0-aaca0ddbac25.png)
+![image](https://user-images.githubusercontent.com/102288634/185355534-3461d9d1-55a2-453b-9640-0fee60079d8f.png)
+
+
+# EG39
