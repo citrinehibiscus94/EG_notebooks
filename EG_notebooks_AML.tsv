@@ -1,4 +1,8 @@
 Sample	Cluster	Ident	Comments
-EG37	0	NA	NA
-EG37	1	NA	NA
-EG37	2	NA	NA
+EG37	0	blood-cell prog	HB pos, MKI67
+EG37	1	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG37	2	myeloid prog, HSC	KIT pos, MPO pos, CDK6 pos, CD34 pos
+EG37	3	blood-cell	HB pos
+EG37	4	blood-cell	HB pos
+EG37	5	myeloid	MS4A1 pos
+EG44	0	NA	NA
