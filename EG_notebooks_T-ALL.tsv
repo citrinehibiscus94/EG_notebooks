@@ -49,6 +49,6 @@ EG29	9	dividing leukemic	CD3 pos, DNTT pos, IGLL1 pos, MKI67 pos
 EG29	10	blood-cell	HB pos, KIT pos	
 EG29	11	myeloid prog	KIT pos	
 EG29	12	NK-cell	GZ pos	
-EG29	13	myeloid	MS4A1 pos	
+EG29	13	mature-B	MS4A1 pos	
 EG29	14	leukemic HSC	CD3 pos, IGLL1 pos, VPREB1 pos, CD34	
 EG29	15	T-cell	CD3 pos	
