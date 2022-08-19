@@ -10,7 +10,7 @@ EG9	7	T-Cells, NK-Cells, mature-B	CD8 pos, GZ pos, MS4A1 pos
 EG9	8	T-cells, NK-cells	CD3 pos, CD8 pos, GZ pos	
 EG14	0	NK-cell	GZ pos	
 EG14	1	T-cell	CD8 pos	
-EG14	2	mature-B	MS4A1 pos	
+EG14	2	myeloid	MS4A1 pos	
 EG14	3	leukemic	IGLL1 pos, VPREB1 pos, DNTT pos	
 EG14	4	T-cell	CD3 pos, CD4 pos	
 EG14	5	T-cell	CD8 pos	
@@ -27,7 +27,7 @@ EG19	3	leukemic	IGLL1 pos, DNTT pos
 EG19	4	leukemic	IGLL1 pos, DNTT pos	
 EG19	5	leukemic	IGLL1 pos, DNTT pos	
 EG19	6	dividing	MKI67 pos	
-EG19	7	mature-B	MS4A1 pos, PTPRC pos	
+EG19	7	myeloid	MS4A1 pos, PTPRC pos	
 EG19	8	NK-cell	GZ pos	
 EG19	9	monocyte	LYZ pos	
 EG19	10	T-cell	CD8 pos	
@@ -43,24 +43,24 @@ EG11	6	T-cell, blood-cell, monocyte	CD3 pos, HB pos, LYZ pos
 EG11	7	NK-cell	GZ pos	
 EG11	8	leukemic	DNTT pos	
 EG16	0	NK-cell	GZ pos	
-EG16	1	mature-B	MS4A1 pos	
+EG16	1	myeloid	MS4A1 pos	
 EG16	2	T-cell	CD8 pos, CD3 pos	
 EG16	3	NK-cell	GZ pos	
 EG16	4	leukemic	IGLL1 pos, VPREB1 pos	
 EG16	5	T-cell	CD8 pos, CD3 pos	
 EG16	6	NK-cell	GZ pos	
 EG16	7	T-cell	CD8 pos, CD3 pos	
-EG16	8	mature-B	MS4A1 pos	
-EG16	9	mature-B	MS4A1 pos	
+EG16	8	myeloid	MS4A1 pos	
+EG16	9	myeloid	MS4A1 pos	
 EG20	0	T-cell	CD8 pos	
 EG20	1	leukemic	DNTT pos	
 EG20	2	NK-cell	GZ pos	
-EG20	3	mature-B	MS4A1 pos	
+EG20	3	myeloid	MS4A1 pos	
 EG20	4	leukemic	IGLL1 pos, VPREB1 pos	
 EG20	5	monocyte	LYZ pos	
 EG20	6	T-cell	CD3 pos	
 EG18	0	T-cell	CD8 pos, CD3 pos	
-EG18	1	mature-B	MS4A1 pos	
+EG18	1	myeloid	MS4A1 pos	
 EG18	2	leukemic	DNTT pos	
 EG18	3	NK-cell	GZ pos	
 EG18	4	monocyte	LYZ pos	
@@ -73,7 +73,7 @@ EG15	5	monocyte	LYZ pos
 EG15	6	dividing leukemic	MKI67 pos, AURKA pos, IGLL pos, VPREB1 pos, DNTT pos	
 EG15	7	leukemic	DNTT pos	
 EG15	8	T-cell	CD8 pos, CD3 pos	
-EG15	9	mature-B	MS4A1 pos	
+EG15	9	myeloid	MS4A1 pos	
 EG15	10	leukemic	IGLL1 pos, VPREB1 pos, DNTT pos	
 EG12	0	monocyte	LYZ pos, CD14 pos	
 EG12	1	monocyte	LYZ pos, CD14 pos	
@@ -81,17 +81,17 @@ EG12	2	monocyte	LYZ pos, CD14 pos
 EG12	3	NK-cell	GZ pos	
 EG12	4	T-cell	CD3 pos	
 EG12	5	T-cell	CD8 pos, CD3 pos	
-EG12	6	mature-B	MS4A1 pos	
+EG12	6	myeloid	MS4A1 pos	
 EG12	7	NK-cell	GZ pos	
 EG12	8	monocyte	MPO pos	
 EG12	9	T-cell	CD8 pos, CD3 pos	
 EG12	10	HSC	CD34 pos	
 EG12	11	monocyte	LYZ pos, CD14 pos	
-EG12	12	mature-B	MS4A1 pos	
+EG12	12	myeloid	MS4A1 pos	
 EG12	13	blood-cell	HBA pos, HBB pos	
 EG12	14	monocyte	LYZ pos, CD14 pos	
 EG12	15	monocyte	LYZ pos, CD14 pos, MPO pos	
-EG12	16	mature-B	MS4A1 pos	
+EG12	16	myeloid	MS4A1 pos	
 EG17	0	leukemic HSC	DNTT pos, CD34	
 EG17	1	leukemic HSC	DNTT pos, CD34 pos	
 EG17	2	T-cell	CD3 pos	
@@ -100,13 +100,13 @@ EG17	4	leukemic HSC	DNTT pos, CD34 pos
 EG17	5	monocyte	LYZ pos, MPO pos	
 EG17	6	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos	
 EG17	7	NK-cell	GZ pos	
-EG17	8	mature-B	MS4A1 pos	
+EG17	8	myeloid	MS4A1 pos	
 EG17	9	T-cell	CD8 pos, CD3 pos	
 EG17	10	T-cell	CD8, pos, CD3 pos	
 EG17	11	leukemic HSC	DNTT pos, CD34 pos	
 EG17	12	NK-cell	GZ pos	
 EG17	13	monocyte	LYZ pos, CD14 pos	
-EG17	14	mature-B	MS4A1 pos	
+EG17	14	myeloid	MS4A1 pos	
 EG17	15	monocyte	LYZ pos, CD14 pos	
 EG17	16	leukemic HSC	DNTT pos, CD34 pos	
 EG13	0	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos	
@@ -115,20 +115,20 @@ EG13	2	leukemic HSC	CD34 pos, DNTT pos, IGLL1 pos, VPREB1 pos
 EG13	3	T-cell	CD8 pos, CD3 pos	
 EG13	4	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos	
 EG13	5	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos	
-EG13	6	mature-B	MS4A1	
+EG13	6	myeloid	MS4A1	
 EG13	7	dividing leukemic	MKI67 pos, DNTT pos, IGLL1 pos, VPREB1 pos	
 EG13	8	NK-cell	GZ pos	
 EG13	9	monocyte	LYZ pos, MPO pos	
 EG13	10	blood-cell	HBA pos, HBB pos	
-EG10	0	mature-B	MS4A1 pos	
+EG10	0	myeloid	MS4A1 pos	
 EG10	1	T-cell	CD8 pos, CD3 pos	
 EG10	2	NK-cell	GZ pos	
-EG10	3	mature-B	MS4A1	
+EG10	3	myeloid	MS4A1	
 EG10	4	T-cell	CD8 pos, CD3 pos	
 EG10	5	T-cell	CD3 pos	
 EG10	6	T-cell	CD8 pos, CD3 pos	
 EG10	7	monocyte	LYZ pos, CD14 pos	
-EG10	8	mature-B	MS4A1	
+EG10	8	myeloid	MS4A1	
 EG10	9	T-cell	CD3 pos	
 EG10	10	blood-cell	HBA pos, HBB pos	
 EG10	11	leukemic	DNTT pos, VPREB1 pos, MME pos	
