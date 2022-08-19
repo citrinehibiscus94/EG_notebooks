@@ -5,7 +5,7 @@ EG38	2	HSC	KIT pos, CD34 pos
 EG38	3	HSC	KIT pos, IGLL1 pos, CD34 pos
 EG38	4	HSC	KIT pos, CD34 pos
 EG38	5	blood-cell prog	HB pos, MKI67 pos
-EG38	6	leukemic myeloid prog	MS4A1 pos, KIT pos, DNTT pos, IGLL1 pos, VPREB1 pos, MPO pos
+EG38	6	mixed-phenotype leukemic myeloid prog, mature-B	MS4A1 pos, KIT pos, DNTT pos, IGLL1 pos, VPREB1 pos, MPO pos
 EG38	7	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG38	8	dividing HSC	KIT pos, MKI67 pos, CD34 pos
 EG38	9	blood-cell	HB pos
