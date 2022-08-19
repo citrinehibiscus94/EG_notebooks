@@ -6,7 +6,7 @@ EG30	3	plasma-cell	KIT pos, plasma-cell pos, prot CD38 pos, prot CD19 neg, prot 
 EG30	4	blood-cell prog	HB pos, MPO pos, MKI67 pos
 EG30	5	dividing monocyte	LYZ pos, MPO pos, MKI67 pos
 EG30	6	leukemic HSC	IGLL1 pos, CD34 pos
-EG30	7	myeloid	MS4A1 pos
+EG30	7	mature-B	MS4A1 pos
 EG30	8	T-cell	CD3 pos, CD8 pos
 EG30	9	blood-cell	HB pos
 EG30	10	plasma-cell	plasma-cell pos, prot CD38 pos, prot CD19 neg, prot CD117 neg
@@ -23,7 +23,7 @@ EG31	2	plasma-cell	plasma-cell pos, prot CD38 pos, prot CD117 pos/neg, prot CD19
 EG31	3	monocyte	LYZ pos, CD14 pos
 EG31	4	T-cell, NK-cell	CD3 pos, GZ pos
 EG31	5	blood-cell prog, myeloid prog	HB pos, MPO pos, CD34 pos
-EG31	6	myeloid	MS4A1
+EG31	6	mature-B	MS4A1
 EG31	7	myeloid, plasma-cell	MPO pos, plasma-cell pos
 EG31	8	blood-cell	HB pos
 EG31	9	blood-cell prog	HB pos, MKI67 pos
