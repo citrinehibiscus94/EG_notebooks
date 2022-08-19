@@ -1,7 +1,7 @@
 Sample	Cluster	Ident	Comments
-EG54	0	NA	NA
-EG54	1	NA	NA
-EG54	2	NA	NA
-EG54	3	NA	NA
-EG54	4	NA	NA
+EG54	0	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG54	1	mixed-phenotype monocyte, HSC	LYZ pos, CD14 pos / KIT pos, CD34 pos
+EG54	2	blood-cell prog	HB pos, MKI67 pos
+EG54	3	NK-cell	GZ pos
+EG54	4	blood-cell	HB pos
 EG55	0	NA	NA
