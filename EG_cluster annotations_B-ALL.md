@@ -7,6 +7,10 @@
 ![image](https://user-images.githubusercontent.com/102288634/178466137-f4da8ab7-e307-4d22-bf9c-fec7b1c0049b.png)
 ![image](https://user-images.githubusercontent.com/102288634/178466411-16571a17-2fbc-4dff-b32c-36d85983ae5b.png)
 
+# EG10
+![image](https://user-images.githubusercontent.com/102288634/187143814-d4fb3439-c66b-4350-928b-31d925c1786a.png)
+
+
 # EG14
 ![image](https://user-images.githubusercontent.com/102288634/178469131-8d8f77c9-c3aa-4f7f-8e0e-cd5bd0c5a328.png)
 ![image](https://user-images.githubusercontent.com/102288634/178469550-7e10715c-72cc-4d93-9a9d-0d3fcdb52c09.png)
