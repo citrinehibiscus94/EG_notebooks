@@ -32,3 +32,23 @@ EG39	16	HSC	MPO pos, CD34 pos
 EG39	17	mature-B	MS4A1 pos
 EG39	18	NK-cell	GZ pos
 EG39	19	monocyte	LYZ pos, CD14 pos
+EG40	0	leukemic	IGLL1 pos, CD34 pos
+EG40	1	T-cell	CD3 pos
+EG40	2	blood-cell	HB pos
+EG40	3	leukemic	IGLL1 pos, CD34 pos
+EG40	4	leukemic	IGLL1 pos, MPO pos
+EG40	5	blood-cell	HB pos
+EG40	6	blood-cell prog	HB pos, MKI67 pos
+EG40	7	mixed phenotype blood-cell, dendritic	HB pos, FCER1A pos
+EG40	8	leukemic	IGLL1 pos, CD34 pos
+EG40	9	T-cell	CD3 pos
+EG40	10	blood-cell	HB pos
+EG40	11	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG40	12	leukemic	IGLL1 pos, FCER1A pos
+EG40	13	T-cell, NK-cell	CD8 pos, GZ pos
+EG40	14	HSC	CD34
+EG40	15	blood-cell	HB pos
+EG40	16	mature-B	MS4A1 pos
+EG40	17	monocyte	LYZ pos, CD14 pos
+EG40	18	blood-cell	HB pos
+EG40	19	plasma-cell	plasma-cell pos
