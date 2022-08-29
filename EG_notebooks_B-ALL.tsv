@@ -20,7 +20,7 @@ EG10	8	mature-B	MS4A1 pos
 EG10	9	T-cell	CD3 pos	
 EG10	10	blood cell prog	HB pos, MKI67 pos	
 EG10	11	leukemic HSC	MS4A1 pos, DNTT pos, VPREB1 pos, CD34 pos	
-EG10	12	NK-cell	GZ pos
+EG10	12	NK-cell	GZ pos	
 EG11	0	leukemic HSC	DNTT pos, IGLL1 pos, CD34 pos	
 EG11	1	leukemic HSC	DNTT pos, CD34 pos	
 EG11	2	leukemic	DNTT pos, IGLL1 pos	
