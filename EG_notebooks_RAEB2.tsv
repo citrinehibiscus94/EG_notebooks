@@ -52,3 +52,19 @@ EG40	16	mature-B	MS4A1 pos
 EG40	17	monocyte	LYZ pos, CD14 pos
 EG40	18	blood-cell	HB pos
 EG40	19	plasma-cell	plasma-cell pos
+EG41	0	T-cell	CD3 pos
+EG42	1	T-cell	CD3 pos
+EG42	2	mixed phenotype dendritic, CD34	FCER1A pos, CD34 pos
+EG41	3	blood-cell prog	HB pos, MKI67
+EG42	4	T-cell	CD3 pos, CD8 pos
+EG42	5	blood-cell prog	HB pos, MKI67
+EG41	6	monocyte	LYZ pos, MPO pos, CD14 pos
+EG42	7	blood-cell	HB pos
+EG42	8	mature-B	MS4A1
+EG41	9	T-cell	CD3 pos
+EG42	10	myeloid	KIT pos
+EG42	11	blood-cell	HB pos
+EG41	12	T-cell, NK-cell	CD8 pos, GZ pos
+EG42	13	NK-cell	GZ pos
+EG42	14	plasma-cell	plasma-cell pos
+EG42	15	blood-cell	HB pos
