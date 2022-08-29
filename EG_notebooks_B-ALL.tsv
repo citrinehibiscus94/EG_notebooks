@@ -9,7 +9,7 @@ EG9	6	leukemic	IGL11 pos
 EG9	7	T-Cells, NK-Cells, mature-B	CD8 pos, GZ pos, MS4A1 pos	
 EG9	8	T-cells, NK-cells	CD3 pos, CD8 pos, GZ pos	
 EG10	0	mature-B	MS4A1 pos
-EG10	1	T-cell	CD3 pos, CD8 pos,
+EG10	1	T-cell	CD3 pos, CD8 pos
 EG10	2	NK-cell	GZ pos
 EG10	3	mature-B	MS4A1 pos
 EG10	4	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
