@@ -42,3 +42,24 @@
 
 # EG40
 ![image](https://user-images.githubusercontent.com/102288634/187189592-654f36d8-9dff-4582-b725-66c606e43563.png)
+![image](https://user-images.githubusercontent.com/102288634/187194182-2ac0b385-770c-49a1-82ea-bc3fb95b924b.png)
+![image](https://user-images.githubusercontent.com/102288634/187194257-73ede2c1-c89d-4e29-8053-c25182c120bf.png)
+![image](https://user-images.githubusercontent.com/102288634/187194284-6f897b38-5f9d-4d9e-bac4-c6f47f322348.png)
+![image](https://user-images.githubusercontent.com/102288634/187194317-9ae01bb8-dc98-4537-a626-6c39d35d35a7.png)
+![image](https://user-images.githubusercontent.com/102288634/187194373-307b2adf-d223-4bec-9d8f-2bc729390385.png)
+![image](https://user-images.githubusercontent.com/102288634/187194408-78d4a1bf-e156-4126-b68f-7639837b9765.png)
+![image](https://user-images.githubusercontent.com/102288634/187194429-718d98d4-aba8-4ba5-af6d-62200e5e4d47.png)
+![image](https://user-images.githubusercontent.com/102288634/187194475-e963c400-4d54-4bd0-9070-5dbb825e661b.png)
+![image](https://user-images.githubusercontent.com/102288634/187194532-1a5310bc-66ff-428d-941c-f055be751c10.png)
+![image](https://user-images.githubusercontent.com/102288634/187194588-4547ac86-7451-46e6-9566-d227270766e8.png)
+![image](https://user-images.githubusercontent.com/102288634/187194626-f74203f6-b000-4518-b4cc-11472fb00314.png)
+![image](https://user-images.githubusercontent.com/102288634/187194651-c5c7e737-db4e-431f-a7a9-b72ecf593803.png)
+![image](https://user-images.githubusercontent.com/102288634/187194677-22ff1fd1-60ef-423a-8096-e562e666dfdd.png)
+![image](https://user-images.githubusercontent.com/102288634/187194713-5ad78528-4950-4bba-9ea8-ca05b3f3bbfe.png)
+![image](https://user-images.githubusercontent.com/102288634/187194836-069fc724-bebc-4f3c-9cd3-4d35212ef1fa.png)
+![image](https://user-images.githubusercontent.com/102288634/187194891-da64a29a-bee7-4ac1-a9a6-0a65b5150b80.png)
+![image](https://user-images.githubusercontent.com/102288634/187194936-bc6c85b7-f7d1-49f6-9793-5bf651bab0ca.png)
+![image](https://user-images.githubusercontent.com/102288634/187195061-0db42bf4-e040-453f-87bd-9340f223e173.png)
+
+# EG41
+![image](https://user-images.githubusercontent.com/102288634/187195520-e0609b72-408b-4ed6-91e7-e860bb2c9c21.png)
