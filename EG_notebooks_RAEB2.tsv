@@ -12,4 +12,23 @@ EG38	9	blood-cell	HB pos
 EG38	10	HSC	KIT pos, CD34 pos
 EG38	11	HSC	KIT pos, CD34 pos
 EG38	12	monocyte	LYZ pos, CD14 pos
-EG39	0	NA	NA
+EG39	0	HSC	KIT pos, CD34 pos
+EG39	1	blood-cell	HB pos
+EG39	2	HSC	KIT pos, FCER1A pos, CD34 pos
+EG39	3	blood-cell prog	HB pos, MKI67 pos,
+EG39	4	HSC	KIT pos, FCER1A pos, CD34 pos
+EG39	5	myeloid	KIT pos
+EG39	6	T-cell	CD3 pos
+EG39	7	blood-cell	HB pos
+EG39	8	blood-cell prog	HB pos, MKI67 pos
+EG39	9	blood-cell prog	HB pos, MKI67 pos
+EG39	10	HSC	KIT pos, CD34 pos
+EG39	11	mixed-phenotype HSC, blood-cell	HB pos, FCER1A pos, CD34 pos
+EG39	12	HSC	FCER1A pos, CD34 pos
+EG39	13	blood-cell	HB pos
+EG39	14	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG39	15	blood-cell	HB pos
+EG39	16	HSC	MPO pos, CD34 pos
+EG39	17	mature-B	MS4A1 pos
+EG39	18	NK-cell	GZ pos
+EG39	19	monocyte	LYZ pos, CD14 pos
