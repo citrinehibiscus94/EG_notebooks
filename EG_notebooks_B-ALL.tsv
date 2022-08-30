@@ -163,6 +163,15 @@ EG23	0	dividing leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos, PTPRC po
 EG23	1	mature-B	PTPRC pos	
 EG23	2	monocyte	LYZ pos, CD14, PTPRC pos	
 EG23	3	blood-cell prog	HB pos, MKI67 pos	
-EG24	0	NA	NA	
-EG24	1	NA	NA	
-EG24	2	NA	NA	
+EG24	0	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos	
+EG24	1	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos	
+EG24	2	leukemic	MS4A1 pos, DNTT pos, IGLL1 pos, VPREB1 pos	
+EG24	3	leukemic	MS4A1 pos, DNTT pos, IGLL1 pos, VPREB1 pos	
+EG24	4	dividing leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos, CD34 pos	
+EG24	5	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos	
+EG24	6	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos	
+EG24	7	leukemic HSC	HB pos, DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos	
+EG24	8	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos	
+EG25	0	NA	NA	
+EG25	1	NA	NA	
+EG25	2	NA	NA	
