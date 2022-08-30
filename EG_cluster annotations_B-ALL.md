@@ -144,5 +144,24 @@
 
 # EG21
 ![image](https://user-images.githubusercontent.com/102288634/187385470-6cd11bb6-1cef-4c64-99d4-849ceb49662a.png)
+![image](https://user-images.githubusercontent.com/102288634/187389654-a5a9a175-e713-4a58-9dad-fb9f974293c4.png)
+![image](https://user-images.githubusercontent.com/102288634/187389679-a505592b-94fb-41a0-9b6b-b6ef77adcfb7.png)
+![image](https://user-images.githubusercontent.com/102288634/187389727-ce2cd6f3-a5b0-443a-b3e0-0a8e11fb1181.png)
+![image](https://user-images.githubusercontent.com/102288634/187389798-b37fab38-1e0e-4208-b7aa-383e26b2e2df.png)
+![image](https://user-images.githubusercontent.com/102288634/187389830-30d1850f-1475-4e37-86a9-df696b69f031.png)
+![image](https://user-images.githubusercontent.com/102288634/187389864-6dddd3e2-c1e0-48dc-9e4c-79ba35ad997b.png)
+![image](https://user-images.githubusercontent.com/102288634/187389955-471bc713-687b-4580-bd50-4340f7af5d15.png)
+![image](https://user-images.githubusercontent.com/102288634/187390014-1fce2596-71fc-4831-96fd-b7ccbbca45be.png)
+![image](https://user-images.githubusercontent.com/102288634/187390054-c68148eb-757e-4b6e-a4db-0c154f4b92ec.png)
+![image](https://user-images.githubusercontent.com/102288634/187390115-b8cd0ff3-370e-42bb-bda1-f88c524c3f5c.png)
+![image](https://user-images.githubusercontent.com/102288634/187390142-6bd6d689-1545-48e1-8fe2-7a21a018887c.png)
+![image](https://user-images.githubusercontent.com/102288634/187390232-3385ea20-3a1a-4d62-bddb-8e9f4638c5d8.png)
+![image](https://user-images.githubusercontent.com/102288634/187390288-d528fa6d-d221-4b9b-bbdd-54c42cb18df1.png)
+![image](https://user-images.githubusercontent.com/102288634/187390489-48be8cef-74f2-44c3-8077-faaf6be208b5.png)
+![image](https://user-images.githubusercontent.com/102288634/187390625-b9426950-e31a-4218-9e42-f39cc2744e24.png)
+![image](https://user-images.githubusercontent.com/102288634/187390889-f2cc573a-4136-4cfe-9eda-cc08291883cc.png)
+
+# EG22
+![image](https://user-images.githubusercontent.com/102288634/187391128-d152fede-1204-4d20-8401-5b816a0cc495.png)
 
 
