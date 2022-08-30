@@ -181,4 +181,18 @@
 
 # EG23
 ![image](https://user-images.githubusercontent.com/102288634/187412305-547ab3a4-a02d-44ef-a915-92b4194cdb6a.png)
+![image](https://user-images.githubusercontent.com/102288634/187415136-214bfb4f-6744-41af-94d2-96df21137b17.png)
+![image](https://user-images.githubusercontent.com/102288634/187415157-bbab3edd-947f-4045-b4c7-e4451e2f06e9.png)
+![image](https://user-images.githubusercontent.com/102288634/187415198-8d1959d3-638f-49d3-a9f5-af042af2e8d5.png)
+![image](https://user-images.githubusercontent.com/102288634/187415266-27a8da3b-a182-42a2-8dd0-d4db023fe55f.png)
+![image](https://user-images.githubusercontent.com/102288634/187415306-2de8aaa7-367c-4794-9e8f-08e7177c835a.png)
+![image](https://user-images.githubusercontent.com/102288634/187415340-49b17d59-07f6-4b42-87cd-599cd7ccfa75.png)
+![image](https://user-images.githubusercontent.com/102288634/187415405-616a32cc-4cba-4fac-9b76-a2bd35514805.png)
+![image](https://user-images.githubusercontent.com/102288634/187415492-8eccd271-f329-4c21-b5d5-23db604b6080.png)
+![image](https://user-images.githubusercontent.com/102288634/187415612-a94ff3c8-243d-4c6d-9fb3-948301b3af52.png)
+![image](https://user-images.githubusercontent.com/102288634/187415659-c0b3743e-7ddb-4cfb-aa54-a467b0f8bf07.png)
+![image](https://user-images.githubusercontent.com/102288634/187415750-7fef56f6-1045-4d46-9d00-96211436597d.png)
+
+# EG24
+![image](https://user-images.githubusercontent.com/102288634/187415958-debe5a36-b32b-4972-9dbf-73b5c20e87db.png)
 
