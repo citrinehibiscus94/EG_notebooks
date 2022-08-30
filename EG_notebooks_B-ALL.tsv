@@ -145,6 +145,21 @@ EG21	8	mature-B, leukemic	MS4A1 pos, VPREB1 pos
 EG21	9	T-cell, NK-cell	CD8 pos, GZ pos	
 EG21	10	leukemic HSC	DNTT pos, IGLL1 pos, VPREB1 pos, CD34	
 EG21	11	monocyte	LYZ pos, CD14 pos	
-EG22	0	NA	NA	
-EG22	1	NA	NA	
-EG22	2	NA	NA	
+EG22	0	NA	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos, CD34 pos	
+EG22	1	NA	DNTT pos, IGLL1 pos, VPREB1 pos	
+EG22	2	NA	DNTT pos, IGLL1 pos, VPREB1 pos, CD34 pos	
+EG22	3	NA	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos, CD34 pos	
+EG22	4	NA	HB pos, LYZ pos, DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos, CD34 pos	
+EG22	5	NA	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos	
+EG22	6	NA	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos	
+EG22	7	NA	LYZ pos, DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos, CD34 pos	
+EG22	8	NA	CD3 pos, CD8 pos	
+EG22	9	NA	LYZ pos, CD14 pos	
+EG22	10	NA	CD3 pos, CD8 pos, GZ pos	
+EG22	11	NA	HB pos, DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos, CD34 pos	
+EG22	12	NA	MS4A1 pos	
+EG22	13	NA	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos, CD34 pos	
+EG23	0	NA	NA	
+EG23	1	NA	NA	
+EG23	2	NA	NA	
+EG23	3	NA	NA	
