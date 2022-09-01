@@ -23,6 +23,20 @@ EG35	9	dendritic	LYZ pos, FCER1A pos
 EG35	10	blood-cell	HB pos
 EG35	11	mature-B	MS4A1 pos
 EG35	12	NK-cell	GZB pos
-EG36	0	NA	NA
-EG36	1	NA	NA
-EG36	2	NA	NA
+EG36	0	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG36	1	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG36	2	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG36	3	NK-cell	GZ pos
+EG36	4	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG36	5	monocyte	LYZ pos, CD14 pos
+EG36	6	blood-cell prog	HB pos, MKI67 pos
+EG36	7	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG36	8	blood-cell	HB pos
+EG36	9	T-cell	CD3 pos
+EG36	10	NA	DNTT pos
+EG36	11	NK-cell	GZ pos
+EG36	12	blood-cell	HB pos
+EG36	13	blood-cell	HB pos
+EG36	14	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG36	15	mature-B	MS4A1 pos
+EG36	16	blood-cell	HB pos
