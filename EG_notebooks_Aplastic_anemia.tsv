@@ -10,4 +10,19 @@ EG34	7	mature-B	MS4A1 pos
 EG34	8	blood-cell prog	HB pos, MKI67 pos
 EG34	9	plasma-cell	plasma-cell pos
 EG34	10	monocyte	LYZ pos, CD14 pos
-EG35	0	NA	NA
+EG35	0	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG35	1	T-cell, NK-cell	CD3 pos, GZ pos
+EG35	2	mature-B	MS4A1 pos
+EG35	3	NK-cell	GZ pos
+EG35	4	monocyte	LYZ pos, CD14 pos
+EG35	5	T-cell	CD3 pos
+EG35	6	monocyte	LYZ pos, CD14 pos
+EG35	7	blood-cell prog	HB pos, MKI67 pos
+EG35	8	mixed phenotype	LYZ pos, IGLL1 pos, VPREB1 pos, MPO pos, MKI67 pos
+EG35	9	dendritic	LYZ pos, FCER1A pos
+EG35	10	blood-cell	HB pos
+EG35	11	mature-B	MS4A1 pos
+EG35	12	NK-cell	GZB pos
+EG36	0	NA	NA
+EG36	1	NA	NA
+EG36	2	NA	NA
