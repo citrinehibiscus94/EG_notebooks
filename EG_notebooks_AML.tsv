@@ -17,19 +17,19 @@ EG44	8	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG44	9	mature-B	MS4A1 pos
 EG44	10	plasma-cell	MZB1 pos
 EG44	11	myeloid	KIT pos
-EG45	0	NA	NA
-EG45	1	NA	NA
-EG45	2	NA	NA
-EG45	3	NA	NA
-EG45	4	NA	NA
-EG45	5	NA	NA
-EG45	6	NA	NA
-EG45	7	NA	NA
-EG45	8	NA	NA
-EG45	9	NA	NA
-EG45	10	NA	NA
-EG45	11	NA	NA
-EG45	12	NA	NA
-EG45	13	NA	NA
-EG45	14	NA	NA
-EG45	15	NA	NA
+EG45	0	myeloid	MPO pos
+EG45	1	myeloid	MPO pos
+EG45	2	monocyte	LYZ pos, FCER1A pos, CD14 pos
+EG45	3	myeloid	MPO pos
+EG45	4	mature-B	MS4A1 pos, FCER1A pos
+EG45	5	monocyte	LYZ pos, CD14 pos
+EG45	6	myeloid	MPO pos
+EG45	7	dividing leukemic	IGLL1 pos, MPO pos, MKI67 pos
+EG45	8	myeloid	MPO pos
+EG45	9	monocyte	LYZ pos, CD14 pos
+EG45	10	monocyte	LYZ pos, MPO pos
+EG45	11	monocyte	LYZ pos
+EG45	12	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG45	13	dendritic	KIT pos, FCER1A pos
+EG45	14	myeloid	MPO pos
+EG45	15	leukemic	IGLL1 pos, MPO pos
