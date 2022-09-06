@@ -31,3 +31,16 @@
 
 # EG45
 ![image](https://user-images.githubusercontent.com/102288634/188619659-10225d29-3f61-47c2-953f-58376b0200e5.png)
+![image](https://user-images.githubusercontent.com/102288634/188629146-c7bdc3ba-b33e-419f-ac40-43a9bbf37339.png)
+![image](https://user-images.githubusercontent.com/102288634/188629181-7cb2d038-1b69-46b4-bf79-fc7b0f9d6f61.png)
+![image](https://user-images.githubusercontent.com/102288634/188629242-8052ba0f-f862-4089-b824-905d7c01e326.png)
+![image](https://user-images.githubusercontent.com/102288634/188629271-a2a49158-46b3-4f47-bb63-f67bb8f864b8.png)
+![image](https://user-images.githubusercontent.com/102288634/188629352-e5fb6803-2b78-4772-bc5e-89abe8dee11f.png)
+![image](https://user-images.githubusercontent.com/102288634/188629410-4bcc1e2c-0b68-4374-989c-4b4ee40e3655.png)
+![image](https://user-images.githubusercontent.com/102288634/188629479-92727690-ba04-484d-999e-12c26eed1691.png)
+![image](https://user-images.githubusercontent.com/102288634/188629518-6378e7f5-294b-4611-abaf-0140198daf97.png)
+![image](https://user-images.githubusercontent.com/102288634/188629582-6428ef9f-34f5-432e-8d61-1bda773eef78.png)
+![image](https://user-images.githubusercontent.com/102288634/188629618-2d03ae56-230e-43e0-bad7-00292d89a6cd.png)
+![image](https://user-images.githubusercontent.com/102288634/188629640-92b94850-a7ba-40ad-9c16-cae03f03edbb.png)
+![image](https://user-images.githubusercontent.com/102288634/188629677-86ff2ce8-b182-4660-b868-d9bcd7bd33bd.png)
+![image](https://user-images.githubusercontent.com/102288634/188629721-15dd326a-dca3-4494-a570-f3ddaf20d745.png)
