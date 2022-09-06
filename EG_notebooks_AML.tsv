@@ -4,5 +4,32 @@ EG37	1	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG37	2	myeloid prog, HSC	KIT pos, MPO pos, CDK6 pos, CD34 pos
 EG37	3	blood-cell	HB pos
 EG37	4	blood-cell	HB pos
-EG37	5	myeloid	MS4A1 pos
-EG44	0	NA	NA
+EG37	5	mature-B	MS4A1 pos
+EG44	0	monocyte	LYZ pos, CD14 pos
+EG44	1	monocyte	LYZ pos, CD14 pos
+EG44	2	monocyte	LYZ pos, CD14 pos
+EG44	3	leukemic	KIT pos, IGLL1 pos, MPO pos
+EG44	4	monocyte	LYZ pos
+EG44	5	monocyte	LYZ pos, FCER1A pos
+EG44	6	monocyte	LYZ pos, CD14 pos
+EG44	7	monocyte	LYZ pos, MPO pos
+EG44	8	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG44	9	mature-B	MS4A1 pos
+EG44	10	plasma-cell	MZB1 pos
+EG44	11	myeloid	KIT pos
+EG45	0	NA	NA
+EG45	1	NA	NA
+EG45	2	NA	NA
+EG45	3	NA	NA
+EG45	4	NA	NA
+EG45	5	NA	NA
+EG45	6	NA	NA
+EG45	7	NA	NA
+EG45	8	NA	NA
+EG45	9	NA	NA
+EG45	10	NA	NA
+EG45	11	NA	NA
+EG45	12	NA	NA
+EG45	13	NA	NA
+EG45	14	NA	NA
+EG45	15	NA	NA
