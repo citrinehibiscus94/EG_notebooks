@@ -14,10 +14,10 @@ EG43	0	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG43	1	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG43	2	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG43	3	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
-EG43	4 leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
-EG43	5 leukemic	DNTT pos, IGLL1 pos, FCER1A pos
+EG43	4	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
+EG43	5	leukemic	DNTT pos, IGLL1 pos, FCER1A pos
 EG43	6	dividing leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, MKI67 pos
-EG43	7 T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG43	7	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG43	8	T-cell	CD3 pos
-EG43	9 blood-cell prog	HB pos, MKI67 pos
+EG43	9	blood-cell prog	HB pos, MKI67 pos
 EG43	10	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
