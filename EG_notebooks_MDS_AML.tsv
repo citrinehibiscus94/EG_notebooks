@@ -17,7 +17,7 @@ EG47	4	T-cell	CD3 pos
 EG47	5	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG47	6	mature-B	MS4A1 pos
 EG47	7	mixed phenotype 	LYZ pos, FCER1A pos, MPO pos
-EG47	8	blood-cell	HB pos
+EG47	8	mixed phenotype blood-cell, HSC	HB pos, CD34 pos
 EG47	9	monocyte	LYZ pos
 EG47	10	NA	NA
 EG47	11	mixed phenotype mature-B, plasma-cell	MS4A1 pos, MZB1 pos
