@@ -12,7 +12,7 @@ EG42	9	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG42	10	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG43	0	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG43	1	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
-EG43  2 leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
+EG43	2	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG43	3	leukemic	DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG43  4 leukemic  DNTT pos, IGLL1 pos, VPREB1 pos, FCER1A pos
 EG43  5 leukemic  DNTT pos, IGLL1 pos, FCER1A pos
