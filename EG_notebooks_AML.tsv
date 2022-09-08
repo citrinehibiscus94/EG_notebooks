@@ -33,3 +33,18 @@ EG45	12	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG45	13	dendritic	KIT pos, FCER1A pos
 EG45	14	myeloid	MPO pos
 EG45	15	leukemic	IGLL1 pos, MPO pos
+EG50	0	HSC	MPO pos, CD34 pos
+EG50	1	leukemic HSC	KIT pos, DNTT pos, MPO pos, CD34 pos
+EG50	2	dendritic	LYZ pos, FCER1A pos
+EG50	3	leukemic HSC	KIT pos, DNTT pos, IGLL1 pos, MPO pos, CD34 pos
+EG50	4	leukemic monocyte	LYZ pos, CD14 pos, VCAN pos
+EG50	5	monocyte	LYZ pos
+EG50	6	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG50	7	HSC	KIT pos, MPO pos, CD34 pos
+EG50	8	HSC	KIT pos, MPO pos, CD34 pos
+EG50	9	T-cell	CD3 pos
+EG50	10	T-cell, NK-cell	CD8 pos, GZ pos
+EG50	11	mature-B	MS4A1 pos
+EG50	12	HSC	MPO pos, CD34 pos
+EG50	13	HSC	HCK
+EG50	14	blood-cell prog	HB pos, MKI67 pos
