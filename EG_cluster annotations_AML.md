@@ -87,3 +87,7 @@
 
 # EG52
 ![image](https://user-images.githubusercontent.com/102288634/189111317-f6070eab-5e7a-4045-b14b-fdd86418e8ac.png)
+![image](https://user-images.githubusercontent.com/102288634/189117509-495bfccc-9f95-409a-aadb-be5fbbd74b6a.png)
+![image](https://user-images.githubusercontent.com/102288634/189117539-9ab69d6f-56ff-40e8-ada3-e75944b539d2.png)
+![image](https://user-images.githubusercontent.com/102288634/189117556-f0d073ca-14a9-48ae-b723-c93bb3e14151.png)
+![image](https://user-images.githubusercontent.com/102288634/189117581-a443e23f-53dd-4641-a828-83e2aaceddeb.png)
