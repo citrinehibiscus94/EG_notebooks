@@ -78,22 +78,23 @@ EG52	10	dividing myeloid	LYZ pos, MPO pos, MKI67 pos
 EG52	11	dendritic	LYZ pos, FCER1A pos
 EG52	12	mixed phenotype	LYZ pos, DNTT pos, HB pos
 EG52	13	monocyte	LYZ pos
-EG53	0	NA	NA
-EG53	1	NA	NA
-EG53	2	NA	NA
-EG53	3	NA	NA
-EG53	4	NA	NA
-EG53	5	NA	NA
-EG53	6	NA	NA
-EG53	7	NA	NA
-EG53	8	NA	NA
-EG53	9	NA	NA
-EG53	10	NA	NA
-EG53	11	NA	NA
-EG53	12	NA	NA
-EG53	13	NA	NA
-EG53	14	NA	NA
-EG53	15	NA	NA
-EG53	16	NA	NA
-EG53	17	NA	NA
-EG53	18	NA	NA
+EG53	leukemic HSC	NA	KIT pos, DNTT pos, IGLL1 pos, VPREB1 pos, MPO pos, CD34 pos
+EG53	1	mixed phenotype mature-B, leukemic HSC	MS4A1 pos, DNTT pos, IGLL1 pos, VPREB1 pos, MME pos, CD34 pos
+EG53	2	leukemic HSC	KIT pos, DNTT pos, IGLL1 pos, VPREB1 pos, MPO pos, CD34 pos
+EG53	3	mixed phenotype mature-B, leukemic HSC	MS4A1 pos, DNTT pos, VPREB1 pos, CD34 pos
+EG53	4	leukemic HSC	KIT pos, DNTT pos, IGLL1 pos, VPREB1 pos, MPO pos, CD34 pos
+EG53	5	T-cell	CD3 pos, CD8 pos
+EG53	6	leukemic HSC	KIT pos, IGLL1 pos, DNTT pos, VPREB1 pos, CD34 pos
+EG53	7	mixed phenotype blood-cell, myeloid	HB pos, KIT pos, IGLL1 pos
+EG53	8	myeloid	KIT pos
+EG53	9	dividing leukemic HSC	KIT pos, DNTT pos, VPREB1 pos, MPO pos, MKI67 pos, CD34 pos
+EG53	10	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG53	11	monocyte	LYZ pos, IGLL1 pos, MPO pos
+EG53	12	monocyte	LYZ pos, CD14 pos, VCAN pos
+EG53	13	NK-cell	GZ pos
+EG53	14	leukemic HSC	DNTT pos, CD34 pos
+EG53	15	mature-B	MS4A1 pos
+EG53	16	leukemic HSC	KIT pos, DNTT pos, VPREB1 pos, MPO pos, CD34 pos
+EG53	17	plasma-cell	MZB1 pos
+EG53	18	monocyte	VCAN pos
+EG59	0	NA	NA
