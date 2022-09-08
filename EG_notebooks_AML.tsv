@@ -64,17 +64,18 @@ EG51	12	monocyte	LYZ pos, MPO pos, CD14 pos
 EG51	13	T-cell	CD3 pos
 EG51	14	HSC	MPO pos, CD34 pos
 EG51	15	dendritic	FCER1A pos
-EG52	0	NA	NA
-EG52	1	NA	NA
-EG52	2	NA	NA
-EG52	3	NA	NA
-EG52	4	NA	NA
-EG52	5	NA	NA
-EG52	6	NA	NA
-EG52	7	NA	NA
-EG52	8	NA	NA
-EG52	9	NA	NA
-EG52	10	NA	NA
-EG52	11	NA	NA
-EG52	12	NA	NA
-EG52	13	NA	NA
+EG52	0	T-cell	CD3 pos
+EG52	1	monocyte	LYZ pos, CD14 pos
+EG52	2	leukemic HSC	KIT pos, DNTT pos, IGLL1 pos, CD34 pos
+EG52	3	monocyte	LYZ pos, CD14 pos
+EG52	4	mixed phenotype	GZ pos, DNTT pos, FCER1A pos
+EG52	5	mature-B	MS4A1 pos
+EG52	6	T-cell	CD3 pos, CD8 pos
+EG52	7	leukemic HSC	DNTT pos, VPREB1 pos, CD34 pos
+EG52	8	T-cell	CD3 pos
+EG52	9	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG52	10	dividing myeloid	LYZ pos, MPO pos, MKI67 pos
+EG52	11	dendritic	LYZ pos, FCER1A pos
+EG52	12	leukemic	LYZ pos, DNTT pos
+EG52	13	monocyte	LYZ pos
+EG53	0	NA	NA
