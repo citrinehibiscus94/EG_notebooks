@@ -35,3 +35,22 @@
 
 # EG48
 ![image](https://user-images.githubusercontent.com/102288634/189084437-b3c71857-952f-40f5-876f-fe89813e5481.png)
+![image](https://user-images.githubusercontent.com/102288634/189087261-35abeb47-85b0-43c3-a33d-f7758df3dcc1.png)
+![image](https://user-images.githubusercontent.com/102288634/189087296-a06679d2-7148-480a-a7db-cc768d33e034.png)
+![image](https://user-images.githubusercontent.com/102288634/189087330-3896e768-121d-4f58-a9c8-c203728a1ff4.png)
+![image](https://user-images.githubusercontent.com/102288634/189087357-08f1591a-20ac-4c24-8122-44bf5081c641.png)
+![image](https://user-images.githubusercontent.com/102288634/189087414-a99849fc-0b09-402e-9549-d4c7f2c15b5d.png)
+![image](https://user-images.githubusercontent.com/102288634/189087443-cab3b6b4-a5a2-4263-809e-4028837d6b2b.png)
+![image](https://user-images.githubusercontent.com/102288634/189087491-b4bca5e1-41ab-48b6-9005-44f9109215d8.png)
+![image](https://user-images.githubusercontent.com/102288634/189087566-7e2514c9-157e-4c0a-9e7f-9a143eef46fe.png)
+![image](https://user-images.githubusercontent.com/102288634/189087597-d70b5eea-f44c-46af-a0e4-2e0f32f43a66.png)
+![image](https://user-images.githubusercontent.com/102288634/189087630-a7cb5b3b-5ead-4668-9e22-e386f3cce29b.png)
+![image](https://user-images.githubusercontent.com/102288634/189087694-a48c27a5-06af-46d5-a8d2-ec135706c5e1.png)
+![image](https://user-images.githubusercontent.com/102288634/189087720-5c853a86-4faa-45ba-918c-fe493c59eea7.png)
+![image](https://user-images.githubusercontent.com/102288634/189087750-c40ed18c-8f42-4462-a580-80e593d26649.png)
+![image](https://user-images.githubusercontent.com/102288634/189087798-ee270ce4-91ab-48ef-a705-44867a9e084c.png)
+![image](https://user-images.githubusercontent.com/102288634/189087838-dcab9c1e-6315-46f3-9108-e4c5e06a48ac.png)
+![image](https://user-images.githubusercontent.com/102288634/189087938-571931cf-a882-4d35-b875-f4d4bced11c7.png)
+
+# EG49
+![image](https://user-images.githubusercontent.com/102288634/189088172-603452e1-9691-4287-94fe-4d630632a843.png)
