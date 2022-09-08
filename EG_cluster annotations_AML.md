@@ -106,3 +106,11 @@
 
 # EG53
 ![image](https://user-images.githubusercontent.com/102288634/189118604-df31a0b9-214b-4f41-917c-f2aab89bb2e7.png)
+![image](https://user-images.githubusercontent.com/102288634/189128779-efe5931a-3e07-416b-82b7-592a9513168f.png)
+![image](https://user-images.githubusercontent.com/102288634/189128796-73e97025-b409-466e-ae7c-72b147a072d5.png)
+![image](https://user-images.githubusercontent.com/102288634/189128831-011c85df-d9d8-4316-bd72-08254d02228b.png)
+![image](https://user-images.githubusercontent.com/102288634/189128853-ce25877f-e750-4609-af55-d397bd22876f.png)
+![image](https://user-images.githubusercontent.com/102288634/189128895-08453d78-a137-43d1-a828-6bf63114df8e.png)
+![image](https://user-images.githubusercontent.com/102288634/189128929-28bfec78-626f-4e01-8308-a4bc6882926c.png)
+![image](https://user-images.githubusercontent.com/102288634/189128956-c6ec6ac7-8d1e-4d1b-abce-c6b014448b17.png)
+![image](https://user-images.githubusercontent.com/102288634/189129059-a2371148-c85b-4500-8d41-786352bbb18f.png)
