@@ -43,9 +43,9 @@ EG49	2	leukemic HSC	KIT pos, IGLL1 pos, MPO pos, CD34 pos
 EG49	3	leukemic HSC	KIT pos, IGLL1 pos, MPO pos, CD34 pos
 EG49	4	leukemic HSC	KIT pos, IGLL1 pos, MPO pos, CD34 pos
 EG49	5	mixed phenotype blood-cell, dendritic	HB pos, FCER1A pos
-EG49	6	myeloid	KIT pos, MPO pos
+EG49	6	myeloid	KIT pos, MPO pos, LYZ pos
 EG49	7	T-cell	CD3 pos
-EG49	8	myeloid	KIT pos, IGLL1 pos, MPO pos
+EG49	8	myeloid	KIT pos, IGLL1 pos, MPO pos, LYZ pos
 EG49	9	T-cell, NK-cell	CD3 pos, CD8, GZ pos
 EG49	10	monocyte	LYZ pos
 EG49	11	dendritic	IGLL1 pos, FCER1A pos
