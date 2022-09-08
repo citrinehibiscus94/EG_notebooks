@@ -21,4 +21,33 @@ EG47	8	mixed phenotype blood-cell, HSC	HB pos, CD34 pos
 EG47	9	monocyte	LYZ pos
 EG47	10	NA	NA
 EG47	11	mixed phenotype mature-B, plasma-cell	MS4A1 pos, MZB1 pos
-EG48	0	NA	NA
+EG48	0	monocyte	LYZ pos, CD14 pos
+EG48	1	myeloid prog	KIT pos, IGLL1 pos, MPO pos
+EG48	2	monocyte	LYZ pos, CD14 pos
+EG48	3	HSC	KIT pos, IGLL1 pos, MPO pos, CD34 pos
+EG48	4	myeloid	KIT pos, MPO pos
+EG48	5	HSC	KIT pos, CD34 pos
+EG48	6	mixed phenotype monocyte, myeloid	LYZ pos, MPO pos
+EG48	7	HSC	IGLL1 pos, CD34 pos
+EG48	8	blood-cell prog	HB pos, MKI67 pos
+EG48	9	mature-B	MS4A1 pos
+EG48	10	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG48	11	dendritic	LYZ pos, FCER1A pos
+EG48	12	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG48	13	myeloid prog	KIT pos, IGLL1 pos, MPO pos
+EG48	14	monocyte	LYZ pos
+EG48	15	leukemic	DNTT pos
+EG49	0	NA	NA
+EG49	1	NA	NA
+EG49	2	NA	NA
+EG49	3	NA	NA
+EG49	4	NA	NA
+EG49	5	NA	NA
+EG49	6	NA	NA
+EG49	7	NA	NA
+EG49	8	NA	NA
+EG49	9	NA	NA
+EG49	10	NA	NA
+EG49	11	NA	NA
+EG49	12	NA	NA
+EG49	13	NA	NA
