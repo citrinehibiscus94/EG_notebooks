@@ -76,6 +76,24 @@ EG52	8	T-cell	CD3 pos
 EG52	9	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG52	10	dividing myeloid	LYZ pos, MPO pos, MKI67 pos
 EG52	11	dendritic	LYZ pos, FCER1A pos
-EG52	12	leukemic	LYZ pos, DNTT pos
+EG52	12	mixed phenotype	LYZ pos, DNTT pos, HB pos
 EG52	13	monocyte	LYZ pos
 EG53	0	NA	NA
+EG53	1	NA	NA
+EG53	2	NA	NA
+EG53	3	NA	NA
+EG53	4	NA	NA
+EG53	5	NA	NA
+EG53	6	NA	NA
+EG53	7	NA	NA
+EG53	8	NA	NA
+EG53	9	NA	NA
+EG53	10	NA	NA
+EG53	11	NA	NA
+EG53	12	NA	NA
+EG53	13	NA	NA
+EG53	14	NA	NA
+EG53	15	NA	NA
+EG53	16	NA	NA
+EG53	17	NA	NA
+EG53	18	NA	NA
