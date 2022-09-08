@@ -48,22 +48,22 @@ EG50	11	mature-B	MS4A1 pos
 EG50	12	HSC	MPO pos, CD34 pos
 EG50	13	HSC	HCK
 EG50	14	blood-cell prog	HB pos, MKI67 pos
-EG51	0	NA	MPO pos, CD34 pos
-EG51	1	NA	MPO pos, CD34 pos
-EG51	2	NA	CD34 pos
-EG51	3	NA	MPO pos, CD34 pos
-EG51	4	NA	MPO pos, CD34 pos
-EG51	5	NA	CD34 pos
-EG51	6	NA	MPO pos, CD34 pos
-EG51	7	NA	FCER1A pos
-EG51	8	NA	CD3 pos, CD8 pos, GZ pos
-EG51	9	NA	CD34 pos
-EG51	10	NA	HB pos, MPO pos, MKI67 pos, CD34 pos
-EG51	11	NA	MS4A1 pos
-EG51	12	NA	LYZ pos, MPO pos, CD14 pos
-EG51	13	NA	CD3 pos
-EG51	14	NA	MPO pos, CD34 pos
-EG51	15	NA	FCER1A pos
+EG51	0	HSC	MPO pos, CD34 pos
+EG51	1	HSC	MPO pos, CD34 pos
+EG51	2	HSC	CD34 pos
+EG51	3	HSC	MPO pos, CD34 pos
+EG51	4	HSC	MPO pos, CD34 pos
+EG51	5	HSC	CD34 pos
+EG51	6	HSC	MPO pos, CD34 pos
+EG51	7	dendritic	FCER1A pos
+EG51	8	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG51	9	HSC	CD34 pos
+EG51	10	mixed phenotype blood-cell prog, HSC	HB pos, MPO pos, MKI67 pos, CD34 pos
+EG51	11	mature-B	MS4A1 pos
+EG51	12	monocyte	LYZ pos, MPO pos, CD14 pos
+EG51	13	T-cell	CD3 pos
+EG51	14	HSC	MPO pos, CD34 pos
+EG51	15	dendritic	FCER1A pos
 EG52	0	NA	NA
 EG52	1	NA	NA
 EG52	2	NA	NA
