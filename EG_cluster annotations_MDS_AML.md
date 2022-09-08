@@ -54,3 +54,10 @@
 
 # EG49
 ![image](https://user-images.githubusercontent.com/102288634/189088172-603452e1-9691-4287-94fe-4d630632a843.png)
+![image](https://user-images.githubusercontent.com/102288634/189091965-0e71e7ab-59b1-4ac7-a986-c6dba3d4d616.png)
+![image](https://user-images.githubusercontent.com/102288634/189091995-23b85aa2-2eee-42bd-9cf6-c6d7842f016f.png)
+![image](https://user-images.githubusercontent.com/102288634/189092028-72b3e35b-2cda-4259-b2df-f67630c6837c.png)
+![image](https://user-images.githubusercontent.com/102288634/189092059-c92eeb1d-8477-4c98-824e-a2e311ae18ad.png)
+![image](https://user-images.githubusercontent.com/102288634/189092102-566116eb-6dd3-449d-9345-dcfa4b01afd1.png)
+![image](https://user-images.githubusercontent.com/102288634/189092128-030e9109-0b51-4e7e-aa33-e111c952326d.png)
+![image](https://user-images.githubusercontent.com/102288634/189092185-6156e0bb-c72e-40dd-8c88-e715dd3d904a.png)
