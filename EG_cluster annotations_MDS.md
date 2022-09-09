@@ -32,3 +32,25 @@
 
 # EG56
 ![image](https://user-images.githubusercontent.com/102288634/189315040-24cac59f-aec3-4756-9b66-c2d41a334c7b.png)
+![image](https://user-images.githubusercontent.com/102288634/189326400-83b8582b-baaa-4281-baf4-60fa274d0fda.png)
+![image](https://user-images.githubusercontent.com/102288634/189326423-e67376f6-39ee-484f-a9d6-b1eb263f4972.png)
+![image](https://user-images.githubusercontent.com/102288634/189326446-a43b1384-80ff-42df-81e8-c8b1804d304e.png)
+![image](https://user-images.githubusercontent.com/102288634/189326474-0ea1041e-02d0-4dd2-9c85-a553c64c3b92.png)
+![image](https://user-images.githubusercontent.com/102288634/189326508-3fbd97de-3244-4b13-9a39-9e04568743b7.png)
+![image](https://user-images.githubusercontent.com/102288634/189326526-1c40d58c-40cf-4668-a99e-b19d9775bdf6.png)
+![image](https://user-images.githubusercontent.com/102288634/189326552-d2b674da-04fb-4449-a3f9-1d0f638ae05b.png)
+![image](https://user-images.githubusercontent.com/102288634/189326583-d7cb7a47-8c4e-4a4c-877d-98fb30c0b62c.png)
+![image](https://user-images.githubusercontent.com/102288634/189326625-4efa8fb0-9bb7-477b-a62a-89ebf8047606.png)
+![image](https://user-images.githubusercontent.com/102288634/189326673-1c1ca719-6e68-452a-a9b8-14d239e1d657.png)
+![image](https://user-images.githubusercontent.com/102288634/189326699-f8a75e26-b23a-4ff7-8f9b-be56093273b9.png)
+![image](https://user-images.githubusercontent.com/102288634/189326717-4c210469-ea01-4a87-a416-acc713f81152.png)
+![image](https://user-images.githubusercontent.com/102288634/189326773-ac059132-1b1b-4a30-91e6-c528bc313e51.png)
+![image](https://user-images.githubusercontent.com/102288634/189326806-bb3d8dac-876b-4d47-95f1-4ab7d57be988.png)
+![image](https://user-images.githubusercontent.com/102288634/189326833-bef92903-78d5-4f87-b374-fbf653f71a7c.png)
+![image](https://user-images.githubusercontent.com/102288634/189326876-bd5ff495-ed8f-4f42-9713-3bb56a1996bc.png)
+![image](https://user-images.githubusercontent.com/102288634/189326904-7fa13d78-55a7-420d-9dfd-e2050d12493f.png)
+![image](https://user-images.githubusercontent.com/102288634/189326970-620c9920-1356-4bd9-b572-2c0b76b5dda9.png)
+![image](https://user-images.githubusercontent.com/102288634/189326992-b57dc86b-2783-4eeb-b00b-b99e41fc48a6.png)
+
+# EG57
+![image](https://user-images.githubusercontent.com/102288634/189327207-efd053a4-42ff-4c6e-8ec2-0cd6f821bbf9.png)
