@@ -54,3 +54,23 @@
 
 # EG57
 ![image](https://user-images.githubusercontent.com/102288634/189327207-efd053a4-42ff-4c6e-8ec2-0cd6f821bbf9.png)
+![image](https://user-images.githubusercontent.com/102288634/189329972-b5b08c53-81ee-49ab-8fe3-5c056e33ff8b.png)
+![image](https://user-images.githubusercontent.com/102288634/189330000-04ed31c5-830f-48fc-8089-5ec08efd90cf.png)
+![image](https://user-images.githubusercontent.com/102288634/189330023-5ff9eea5-f0aa-46db-ba5c-3c62057fe73e.png)
+![image](https://user-images.githubusercontent.com/102288634/189330042-b03a88a7-8e91-4b33-8339-98b4c53e9688.png)
+![image](https://user-images.githubusercontent.com/102288634/189330076-4cd7b6f9-4612-4ddf-b2c3-032d875061be.png)
+![image](https://user-images.githubusercontent.com/102288634/189330097-9a0c9041-b20e-4528-bc41-1740933c657d.png)
+![image](https://user-images.githubusercontent.com/102288634/189330116-b277ffdc-f626-452a-aa50-32d584f247fb.png)
+![image](https://user-images.githubusercontent.com/102288634/189330170-17cbede7-de29-43e4-a437-3d6c54aaeb4a.png)
+![image](https://user-images.githubusercontent.com/102288634/189330211-f6b2faf0-ddde-4b99-9d5e-e5ab31151bec.png)
+![image](https://user-images.githubusercontent.com/102288634/189330259-bf095dba-e926-4c9a-875e-be96d6524587.png)
+![image](https://user-images.githubusercontent.com/102288634/189330286-fdc17c90-8ecb-47fd-8d74-58a62d77b688.png)
+![image](https://user-images.githubusercontent.com/102288634/189330311-7db0aa7f-c3e0-4c50-bb21-3aeeb4405d28.png)
+![image](https://user-images.githubusercontent.com/102288634/189330375-11254bf0-f069-4d56-a9ce-4b8932f6769e.png)
+![image](https://user-images.githubusercontent.com/102288634/189330454-44ceb073-0db5-4da5-a56e-8eaf1969b76f.png)
+![image](https://user-images.githubusercontent.com/102288634/189330496-0cad40bb-7cba-4ded-b01c-28606a7daed7.png)
+![image](https://user-images.githubusercontent.com/102288634/189330528-2292f9bb-0203-4f5f-a516-90b1b920cc58.png)
+
+# EG58
+![image](https://user-images.githubusercontent.com/102288634/189330666-eefe4259-a5f2-4866-ab77-24427098624c.png)
+
