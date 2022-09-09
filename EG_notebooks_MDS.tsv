@@ -40,4 +40,18 @@ EG56	17	blood-cell	HB pos
 EG56	18	blood-cell	HB pos
 EG56	19	blood-cell	HB pos
 EG56	20	plasma-cell	MZB1 pos
-EG57	0	NA	NA
+EG57	0	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG57	1	T-cell, NK-cell	CD3 pos, GZ pos
+EG57	2	monocyte	LYZ pos, CD14 pos
+EG57	3	T-cell	CD3 pos, CD8 pos
+EG57	4	monocyte	LYZ pos, CD14 pos
+EG57	5	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG57	6	monocyte	LYZ pos, CD14 pos
+EG57	7	monocyte	LYZ pos, CD14 pos
+EG57	8	HSC	KIT pos, FCER1A pos, MPO pos, CD34 pos
+EG57	9	T-cell, NK-cell	CD3 pos, GZ pos
+EG57	10	blood-cell	HB pos
+EG57	11	myeloid	LYZ pos, MPO pos
+EG57	12	blood-cell prog	HB pos, MKI67 pos
+EG57	13	plasma-cell	MZB1 pos
+EG58	0	NA	NA
