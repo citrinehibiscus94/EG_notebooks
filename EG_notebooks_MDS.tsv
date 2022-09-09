@@ -4,18 +4,39 @@ EG54	1	mixed-phenotype monocyte, HSC	LYZ pos, CD14 pos / KIT pos, CD34 pos
 EG54	2	blood-cell prog	HB pos, MKI67 pos
 EG54	3	NK-cell	GZ pos
 EG54	4	blood-cell	HB pos
-EG55	0	NA	NA
-EG55	1	NA	NA
-EG55	2	NA	NA
-EG55	3	NA	NA
-EG55	4	NA	NA
-EG55	5	NA	NA
-EG55	6	NA	NA
-EG55	7	NA	NA
-EG55	8	NA	NA
-EG55	9	NA	NA
-EG55	10	NA	NA
-EG55	11	NA	NA
-EG55	12	NA	NA
-EG55	13	NA	NA
-EG55	14	NA	NA
+EG55	0	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG55	1	T-cell	CD3 pos
+EG55	2	T-cell, NK-cell	CD3 pos, GZ pos
+EG55	3	NK-cell	GZ pos
+EG55	4	monocyte	LYZ pos, CD14 pos
+EG55	5	T-cell, NK-cell	CD3 pos, GZ pos
+EG55	6	HSC	MPO pos, KIT pos, CD34 pos
+EG55	7	blood-cell prog	HB pos, MKI67 pos
+EG55	8	mature-B	MS4A1 pos
+EG55	9	plasma-cell	MZB1 pos
+EG55	10	blood-cell	HB pos
+EG55	11	NK-cell	GZ pos
+EG55	12	monocyte	LYZ pos, CD14 pos
+EG55	13	monocyte	LYZ pos
+EG55	14	T-cell	CD3 pos
+EG56	0	NA	NA
+EG56	1	NA	NA
+EG56	2	NA	NA
+EG56	3	NA	NA
+EG56	4	NA	NA
+EG56	5	NA	NA
+EG56	6	NA	NA
+EG56	7	NA	NA
+EG56	8	NA	NA
+EG56	9	NA	NA
+EG56	10	NA	NA
+EG56	11	NA	NA
+EG56	12	NA	NA
+EG56	13	NA	NA
+EG56	14	NA	NA
+EG56	15	NA	NA
+EG56	16	NA	NA
+EG56	17	NA	NA
+EG56	18	NA	NA
+EG56	19	NA	NA
+EG56	20	NA	NA
