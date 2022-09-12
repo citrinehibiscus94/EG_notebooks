@@ -54,19 +54,19 @@ EG57	10	blood-cell	HB pos
 EG57	11	myeloid	LYZ pos, MPO pos
 EG57	12	blood-cell prog	HB pos, MKI67 pos
 EG57	13	plasma-cell	MZB1 pos
-EG58	0	NA	NA
-EG58	1	NA	NA
-EG58	2	NA	NA
-EG58	3	NA	NA
-EG58	4	NA	NA
-EG58	5	NA	NA
-EG58	6	NA	NA
-EG58	7	NA	NA
-EG58	8	NA	NA
-EG58	9	NA	NA
-EG58	10	NA	NA
-EG58	11	NA	NA
-EG58	12	NA	NA
-EG58	13	NA	NA
-EG58	14	NA	NA
-EG58	15	NA	NA
+EG58	0	monocyte	LYZ pos, CD14 pos
+EG58	1	monocyte	LYZ pos, CD14 pos
+EG58	2	monocyte	LYZ pos, CD14 pos
+EG58	3	monocyte	LYZ pos, CD14 pos
+EG58	4	T-cell, NK-cell	CD8 pos, GZ pos
+EG58	5	monocyte	LYZ pos, CD14 pos
+EG58	6	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG58	7	T-cell	CD3 pos, CD8 pos
+EG58	8	dividing monocyte	LYZ pos, CD14 pos, MKI67 pos
+EG58	9	monocyte	LYZ pos
+EG58	10	mixed phenotype	LYZ pos, KIT pos, IGLL1 pos, FCER1A pos, MPO, CD34
+EG58	11	T-cell, NK-cell	CD8 pos, GZ pos
+EG58	12	blood-cell	HB pos
+EG58	13	monocyte	LYZ pos, CD14 pos
+EG58	14	NK-cell	GZ pos, PTPRS pos
+EG58	15	monocyte	LYZ pos, CD14 pos
