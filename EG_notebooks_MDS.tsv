@@ -68,5 +68,5 @@ EG58	10	mixed phenotype	LYZ pos, KIT pos, IGLL1 pos, FCER1A pos, MPO, CD34
 EG58	11	T-cell, NK-cell	CD8 pos, GZ pos
 EG58	12	blood-cell	HB pos
 EG58	13	monocyte	LYZ pos, CD14 pos
-EG58	14	NK-cell	GZ pos, PTPRS pos
+EG58	14	dendritic	GZ pos, PTPRS pos
 EG58	15	monocyte	LYZ pos, CD14 pos
