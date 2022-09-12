@@ -118,4 +118,11 @@ EG60	7	monocyte	LYZ pos, CD14 pos
 EG60	8	monocyte	LYZ pos, CD14 pos
 EG60	9	mature-B, plasma-cell	MS4A1 pos, MZB1 pos
 EG60	10	blood-cell prog	HB pos, MKI67 pos
-EG61	0	NA	NA
+EG61	0	myeloid	KIT pos
+EG61	1	monocyte	LYZ pos, MPO pos
+EG61	2	monocyte	LYZ pos, CD14 pos
+EG61	3	dendritic	LYZ pos, FCER1A pos
+EG61	4	monocyte	LYZ pos, MPO pos
+EG61	5	dividing monocyte	LYZ pos, MPO pos, MKI67 pos
+EG61	6	mixed phenotype T-cell, NK-cell, mature-B	CD3 pos, CD8 pos, GZ pos, MS4A1
+EG62	0	NA	NA
