@@ -143,6 +143,8 @@
 ![image](https://user-images.githubusercontent.com/102288634/189614823-e655e0ae-9578-454e-84ba-cdc467cdf0f8.png)
 ![image](https://user-images.githubusercontent.com/102288634/189614863-e7eedf37-6961-4b4c-9ba5-c0dd788dd554.png)
 ![image](https://user-images.githubusercontent.com/102288634/189614953-a7519169-08c8-488a-9edd-948f5991c81d.png)
+![image](https://user-images.githubusercontent.com/102288634/189623365-e702a35f-eb14-41b2-bdf5-0f0d7be1791e.png)
+
 
 # EG60
 ![image](https://user-images.githubusercontent.com/102288634/189615103-e94fefd8-2aee-4612-82f6-deaa87593098.png)
