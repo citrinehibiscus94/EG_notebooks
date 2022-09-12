@@ -132,4 +132,10 @@ EG62	3	monocyte	LYZ pos, PTPRC pos
 EG62	4	monocyte	LYZ pos, CD14 pos, PTPRC pos
 EG62	5	mixed phenotype T-cell, NK-cell, mature-B	CD3 pos, CD8 pos, MS4A1 pos, PTPRC pos
 EG62	6	NK-cell	GZ pos, PTPRC pos
-EG63	0	NA	NA
+EG63	0	monocyte	LYZ pos, PTPRC pos, CD14 pos
+EG63	1	monocyte	LYZ pos
+EG63	2	monocyte	LYZ pos, PTPRC pos, CD14 pos
+EG63	3	monocyte	LYZ pos
+EG63	4	myeloid	LYZ pos, KIT pos, MPO pos
+EG63	5	dividing myeloid	LYZ pos, MPO pos, MKI67 pos
+EG63	6	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos, PTPRC pos
