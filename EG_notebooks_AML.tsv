@@ -108,14 +108,14 @@ EG59	7	monocyte	LYZ pos, CD14 pos
 EG59	8	mature-B	MS4A1 pos, TCL1A pos
 EG59	9	blood-cell prog	HB pos, MKI67 pos
 EG60	0	monocyte	LYZ pos, CD14 pos
-EG60  1 monocyte	LYZ pos, CD14 pos
+EG60	1 monocyte	LYZ pos, CD14 pos
 EG60	2	monocyte	LYZ pos, CD14 pos
 EG60	3	monocyte	LYZ pos, CD14 pos
-EG60  4 monocyte	LYZ pos, CD14 pos
+EG60	4 monocyte	LYZ pos, CD14 pos
 EG60	5	monocyte	LYZ pos, CD14 pos, MPO pos
 EG60	6	monocyte	LYZ pos, CD14 pos
-EG60  7 monocyte	LYZ pos, CD14 pos
+EG60	7 monocyte	LYZ pos, CD14 pos
 EG60	8	monocyte	LYZ pos, CD14 pos
 EG60	9	mature-B, plasma-cell	MS4A1 pos, MZB1 pos
-EG60  10 blood-cell prog	HB pos, MKI67 pos
+EG60	10 blood-cell prog	HB pos, MKI67 pos
 EG61	0	NA	NA
