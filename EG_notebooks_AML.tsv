@@ -99,23 +99,23 @@ EG53	17	plasma-cell	MZB1 pos
 EG53	18	monocyte	VCAN pos
 EG59	0	leukemic HSC	IGLL1 pos, VPREB1 pos, CD34 pos
 EG59	1	HSC	CD34 pos
-EG59	2	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG59	2	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos, PTPRC pos
 EG59	3	leukemic HSC	IGLL1 pos, CD34 pos
 EG59	4	myeloid	KIT pos
-EG59	5	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
+EG59	5	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos, PTPRC pos
 EG59	6	leukemic HSC	IGLL1 pos, CD34 pos
 EG59	7	monocyte	LYZ pos, CD14 pos
-EG59	8	mature-B	MS4A1 pos, TCL1A pos
+EG59	8	mature-B	MS4A1 pos, TCL1A pos, PTPRC pos
 EG59	9	blood-cell prog	HB pos, MKI67 pos
-EG60	0	monocyte	LYZ pos, CD14 pos
-EG60	1	monocyte	LYZ pos, CD14 pos
-EG60	2	monocyte	LYZ pos, CD14 pos
-EG60	3	monocyte	LYZ pos, CD14 pos
+EG60	0	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG60	1	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG60	2	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG60	3	monocyte	LYZ pos, CD14 pos, PTPRC pos
 EG60	4	monocyte	LYZ pos, CD14 pos
-EG60	5	monocyte	LYZ pos, CD14 pos, MPO pos
-EG60	6	monocyte	LYZ pos, CD14 pos
-EG60	7	monocyte	LYZ pos, CD14 pos
-EG60	8	monocyte	LYZ pos, CD14 pos
+EG60	5	monocyte	LYZ pos, CD14 pos, MPO pos, PTPRC pos
+EG60	6	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG60	7	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG60	8	monocyte	LYZ pos, CD14 pos, PTPRC pos
 EG60	9	mature-B, plasma-cell	MS4A1 pos, MZB1 pos
 EG60	10	blood-cell prog	HB pos, MKI67 pos
 EG61	0	myeloid	KIT pos
@@ -124,12 +124,12 @@ EG61	2	monocyte	LYZ pos, CD14 pos
 EG61	3	dendritic	LYZ pos, FCER1A pos
 EG61	4	monocyte	LYZ pos, MPO pos
 EG61	5	dividing monocyte	LYZ pos, MPO pos, MKI67 pos
-EG61	6	mixed phenotype T-cell, NK-cell, mature-B	CD3 pos, CD8 pos, GZ pos, MS4A1
-EG62	0	monocyte	LYZ pos, CD14 pos
-EG62	1	monocyte	LYZ pos, CD14 pos
-EG62	2	monocyte	LYZ pos, CD14 pos
-EG62	3	monocyte	LYZ pos
-EG62	4	monocyte	LYZ pos, CD14 pos
-EG62	5	mixed phenotype T-cell, NK-cell, mature-B	CD3 pos, CD8 pos, MS4A1 pos
-EG62	6	NK-cell	GZ pos
+EG61	6	mixed phenotype T-cell, NK-cell, mature-B	CD3 pos, CD8 pos, GZ pos, MS4A1 pos, PTPRC pos
+EG62	0	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG62	1	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG62	2	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG62	3	monocyte	LYZ pos, PTPRC pos
+EG62	4	monocyte	LYZ pos, CD14 pos, PTPRC pos
+EG62	5	mixed phenotype T-cell, NK-cell, mature-B	CD3 pos, CD8 pos, MS4A1 pos, PTPRC pos
+EG62	6	NK-cell	GZ pos, PTPRC pos
 EG63	0	NA	NA
