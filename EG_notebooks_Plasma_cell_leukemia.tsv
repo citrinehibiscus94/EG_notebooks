@@ -1,29 +1,29 @@
 Sample	Cluster	Ident	Comments
-EG32	0	plasma-cell	MS4A1 pos, plasma-cell pos
-EG32	1	plasma-cell	MS4A1 pos, plasma-cell pos
-EG32	2	plasma-cell	MS4A1 pos, plasma-cell pos
-EG32	3	plasma-cell	MS4A1 pos, plasma-cell pos
+EG32	0	plasma-cell	MS4A1 pos, MZB1 pos
+EG32	1	plasma-cell	MS4A1 pos, MZB1 pos
+EG32	2	plasma-cell	MS4A1 pos, MZB1 pos pos
+EG32	3	plasma-cell	MS4A1 pos, MZB1 pos pos
 EG32	4	T-cell	CD3 pos, CD8 pos, CD4 pos
-EG32	5	plasma-cell	MS4A1 pos, plasma-cell pos
+EG32	5	plasma-cell	MS4A1 pos, MZB1 pos pos
 EG32	6	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
-EG32	7	plasma-cell	plasma-cell pos
+EG32	7	plasma-cell	MZB1 pos pos
 EG32	8	leukemic HSC	IGLL1 pos, MPO pos, CD34 pos
 EG32	9	myeloid	MS4A1 pos
 EG32	10	monocyte	LYZ pos, CD14 pos, CD4 pos
 EG32	11	NA	NA
-EG33	0	plasma-cell	plasma-cell pos
-EG33	1	plasma-cell	plasma-cell pos
-EG33	2	plasma-cell	plasma-cell pos
-EG33	3	plasma-cell	plasma-cell pos
-EG33	4	plasma-cell	plasma-cell pos
-EG33	5	plasma-cell	plasma-cell pos
+EG33	0	plasma-cell	MZB1 pos
+EG33	1	plasma-cell	MZB1 pos
+EG33	2	plasma-cell	MZB1 pos
+EG33	3	plasma-cell	MZB1 pos
+EG33	4	plasma-cell	MZB1 pos
+EG33	5	plasma-cell	MZB1 pos
 EG33	6	T-cell, NK-cell	CD3 pos, CD8 pos, GZ pos
 EG33	7	monocyte	LYZ pos, CD14 pos
 EG33	8	dividing	MKI67 pos
 EG33	9	mixed phenotype blood-cell, mature-B	MS4A1 pos, MPO pos, HB pos
-EG33	10	plasma-cell	plasma-cell pos
+EG33	10	plasma-cell	MZB1 pos
 EG33	11	T-cell ,NK-cell	CD3 pos, CD8 pos, GZ pos
 EG33	12	dividing	MKI67 pos
-EG33	13	plasma-cell	plasma-cell pos
-EG33	14	plasma-cell	plasma-cell pos
-EG33	15	plasma-cell	plasma-cell pos
+EG33	13	plasma-cell	MZB1 pos
+EG33	14	plasma-cell	MZB1 pos
+EG33	15	plasma-cell	MZB1 pos
