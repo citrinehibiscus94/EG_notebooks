@@ -1,5 +1,8 @@
 # EG9
+Mistä tämä kuva?
 ![image](https://user-images.githubusercontent.com/102288634/178463725-d75ddde3-1851-4ebe-a056-928f4360f096.png)
+Kuuluu näyttää tältä.
+![image](https://user-images.githubusercontent.com/102288634/190412197-762032ae-cdb4-46c0-9caa-345f6bf3e55c.png)
 ![image](https://user-images.githubusercontent.com/102288634/178465222-d9b55387-17dd-4686-affc-aec03d92d1b3.png)
 ![image](https://user-images.githubusercontent.com/102288634/178465465-96255e85-7029-4824-8e69-7b6d3f9ba202.png)
 ![image](https://user-images.githubusercontent.com/102288634/178465676-38816391-4d1d-4639-b12f-83c16690a0bd.png)
