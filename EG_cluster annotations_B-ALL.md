@@ -120,7 +120,10 @@ Kuuluu näyttää tältä.
 ![image](https://user-images.githubusercontent.com/102288634/178726948-56f58505-38a7-4167-a790-1ad1808d64e2.png)
 
 # EG13
+Tämä kääntynyt ympäri?
 ![image](https://user-images.githubusercontent.com/102288634/178727281-4f3da3e0-237c-43a6-8e88-445ffc48cce7.png)
+Näin.
+![image](https://user-images.githubusercontent.com/102288634/190574495-228e9267-89f9-417c-895e-090896f19679.png)
 ![image](https://user-images.githubusercontent.com/102288634/178727741-277f5f98-572d-4d30-a8ae-a1592a396b61.png)
 ![image](https://user-images.githubusercontent.com/102288634/178727846-d9e365e9-81c3-4cc1-aa8c-d7cea42addb0.png)
 ![image](https://user-images.githubusercontent.com/102288634/178730304-de621a20-69aa-416e-b87d-6cb4765eadd3.png)
