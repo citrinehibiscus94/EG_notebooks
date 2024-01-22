@@ -87,7 +87,7 @@ EG12	8	monocyte	MPO pos
 EG12	9	T-cell	CD8 pos, CD3 pos	
 EG12	10	HSC	CD34 pos	
 EG12	11	monocyte	LYZ pos, CD14 pos	
-EG12	12	mature-B	MS4A1 pos	
+EG12	12	leukemic	MS4A1 pos, VPREB1 pos, CD34 pos, DNTT pos	
 EG12	13	blood-cell	HBA pos, HBB pos	
 EG12	14	monocyte	LYZ pos, CD14 pos	
 EG12	15	monocyte	LYZ pos, CD14 pos, MPO pos	
